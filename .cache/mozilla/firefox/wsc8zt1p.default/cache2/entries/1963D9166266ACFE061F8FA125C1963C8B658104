@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+        <html lang="en">
+        <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Could anyone tell me where is PYTHONPATH in ubuntu?</title>
+
+        <meta charset="utf-8">
+        <link type="text/css" rel="stylesheet" href="https://boinc.berkeley.edu/dev//bootstrap.min.css" media="all">
+    
+            <link rel=stylesheet type="text/css" href="https://boinc.berkeley.edu/dev/dev_custom.css">
+        <link rel="icon" type="image/x-icon" href="img/favicon.gif"/>
+
+        <link rel=alternate type="application/rss+xml" title="BOINC RSS 2.0" href="https://boinc.berkeley.edu/dev/rss_main.php">
+        </head>
+    <body onload="jumpToUnread();">
+<!-- SVN VERSIONS -->
+<!-- $Id$ -->
+<!-- $Id: pm.inc 14019 2007-11-01 23:04:39Z davea $ -->
+<!-- $Id$ -->
+<!-- $Id$ -->
+<!-- $Id$ -->
+<!-- $Id$ -->
+<!-- $Id$ -->
+<!-- $Id$ -->
+<!-- $Id$ -->
+<div class="container-fluid">
+    <nav class="navbar navbar-default">
+
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a href="http://boinc.berkeley.edu"><img height="50" src="https://boinc.berkeley.edu/logo/boinc_logo.png"></a>&nbsp;&nbsp;
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+    
+      <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Community
+        <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+    <li><a href="https://boinc.berkeley.edu/dev/forum_index.php">Message boards</a></li>
+            <li><a href="https://boinc.berkeley.edu/dev/user_search.php">User search</a></li>
+            
+        </ul>
+      </li>
+    
+      <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Site
+        <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+    <li><a href="https://boinc.berkeley.edu/dev/site_search.php">Site search</a></li>
+            <li><a href="https://boinc.berkeley.edu/dev/language_select.php">Languages</a></li>
+            
+        </ul>
+      </li>
+    
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+    
+                <li><a href="https://boinc.berkeley.edu/dev/create_account_form.php">Sign Up</a></li>
+                <li><a href="https://boinc.berkeley.edu/dev/login_form.php">Login</a></li>
+                
+      </ul>
+    </div>
+  </div>
+</nav>
+    <h2>Could anyone tell me where is PYTHONPATH in ubuntu?</h2>
+<form action="forum_search_action.php" method="POST">
+    <div class="table">
+      <table  width="100%" class="table table-condensed " >
+    
+        <tr>
+    
+        <td>
+        <input type="hidden" name="search_max_time" value="30">
+        <input type="hidden" name="search_forum" value="-1">
+        <input type="hidden" name="search_sort" value="5">
+        <input type="text" class="" name="search_keywords">
+        <input class="btn btn-primary btn-sm" title="Search for words in forum messages" type="submit" value="Search forums"><br>
+        <small><a href="forum_search.php">Advanced search</a></small>
+        </td>
+    </tr>
+    </table>
+        </div>
+    </form>
+    <p><span class=title>
+            <a href="forum_index.php">Message boards</a> : 
+            <a href="forum_forum.php?id=5">Server programs</a> : 
+        Could anyone tell me where is PYTHONPATH in ubuntu?</span>
+    <p>
+    <form class="form-inline" action="forum_thread.php">
+    <table width="100%" cellspacing=0 cellpadding=0>
+    <tr>
+    <td>
+To post messages, you must <a href=login_form.php>log in</a>.</td><td align="right">
+    <input type="hidden" name="id" value="2755">
+    <div class="form-group">
+<select style="color:#000;"class="form-control input-sm" style="width:240px" name="sort">"<option value="6">Oldest first</option>
+<option value="5">Newest first</option>
+<option value="7">Highest rated posts first</option>
+</select>
+ <input class="btn btn-default btn-sm" type="submit" value="Sort">
+    </div>
+    </td></tr></table>
+    </form><p>
+<div class="table">
+      <table style="table-layout:fixed" width="100%" class="table table-condensed table-striped" >
+    <tr><th style="width: 10em;" class="bg-primary">Author</th><th  class="bg-primary">Message</th></tr>
+
+        <tr>
+        <td >
+        <a name="17667"></a>
+     <a href="https://boinc.berkeley.edu/dev/show_user.php?userid=3690">Kunsheng Chen</a><br><span class="small"><p> </p><a href="pm.php?action=new&amp;userid=3690" title="Send Kunsheng Chen a private message" class="btn btn-default btn-xs">Send message</a>
+    <br>Joined: 3 Jun 08<br>Posts: 40<br><img class=flag alt="United States" title="United States" src=flags/us.png>
+</span>
+        </td>
+        <td height="1%">
+        <div class="small">
+    <form action="forum_rate.php?post=17667" method="post"> <a href="forum_thread.php?id=2755&amp;postid=17667">Message 17667</a> - Posted: 5 Jun 2008, 15:47:44 UTC </form>
+</div>
+        <p>
+    <div class="panel panel-default">
+            <div class="panel-body">I screwed up with the previous ubuntu server and is trying on a new one. The first problem for me is to set up 'PYTHONPATH' correctly according to my mate. <br />
+<br />
+I search online and found PYTHONPATH should be in './bashsrc' , which I don't have in /etc but another similar 'bash.bashsrc'. Could anyone tell me is this 'bash.bashsrc' the one I need?  <br />
+<br />
+It's an emergency for me and I really appreciate any help from you guys.</div></div>
+        <div class="small"
+            <span>ID: 17667 &middot; <a href="forum_report_post.php?post=17667"><img class="icon" border="0" title="Report this post as offensive" alt="Report as offensive" src="img/report_post.png" height="9"></a></span></td></tr>
+        <tr><td colspan=2></td></tr>
+    
+        <tr>
+        <td >
+        <a name="17669"></a>
+     <a href="https://boinc.berkeley.edu/dev/show_user.php?userid=3697">0xabad1dea</a><br><span class="small"><img width="100" height="100" src="user_profile/images/3697_avatar.jpg" alt="Avatar"><br><p> </p><a href="pm.php?action=new&amp;userid=3697" title="Send 0xabad1dea a private message" class="btn btn-default btn-xs">Send message</a>
+    <br>Joined: 5 Jun 08<br>Posts: 2<br><img class=flag alt="United States" title="United States" src=flags/us.png>
+</span>
+        </td>
+        <td height="1%">
+        <div class="small">
+    <form action="forum_rate.php?post=17669" method="post"> <a href="forum_thread.php?id=2755&amp;postid=17669">Message 17669</a> - Posted: 5 Jun 2008, 16:26:23 UTC  - in response to <a href="forum_thread.php?id=2755&amp;postid=17667">Message 17667</a>. &nbsp; </form>
+</div>
+        <p>
+    <div class="panel panel-default">
+            <div class="panel-body">It's okay if ~/.bashrc doesn't already exist. Open it in a text editor like this:<br />
+<br />
+$ gedit ~/.bashrc<br />
+[or use vi, or emacs, or nano, or whatever]<br />
+<br />
+and add this line [to the end, if there's something in it]:<br />
+export PYTHONPATH=&quot;/the/path/you/need&quot;<hr><img hspace="8" class="img-responsive" src="http://boinc.mundayweb.com/one/stats.php?userID=11022&amp;prj=14"> 
+</div></div>
+        <div class="small"
+            <span>ID: 17669 &middot; <a href="forum_report_post.php?post=17669"><img class="icon" border="0" title="Report this post as offensive" alt="Report as offensive" src="img/report_post.png" height="9"></a></span></td></tr>
+        <tr><td colspan=2></td></tr>
+    
+        <tr>
+        <td >
+        <a name="17677"></a>
+     <a href="https://boinc.berkeley.edu/dev/show_user.php?userid=3690">Kunsheng Chen</a><br><span class="small"><p> </p><a href="pm.php?action=new&amp;userid=3690" title="Send Kunsheng Chen a private message" class="btn btn-default btn-xs">Send message</a>
+    <br>Joined: 3 Jun 08<br>Posts: 40<br><img class=flag alt="United States" title="United States" src=flags/us.png>
+</span>
+        </td>
+        <td height="1%">
+        <div class="small">
+    <form action="forum_rate.php?post=17677" method="post"> <a href="forum_thread.php?id=2755&amp;postid=17677">Message 17677</a> - Posted: 5 Jun 2008, 19:03:13 UTC  - in response to <a href="forum_thread.php?id=2755&amp;postid=17669">Message 17669</a>. &nbsp; </form>
+</div>
+        <p>
+    <div class="panel panel-default">
+            <div class="panel-body"><blockquote>It's okay if ~/.bashrc doesn't already exist. Open it in a text editor like this:<br />
+<br />
+$ gedit ~/.bashrc<br />
+[or use vi, or emacs, or nano, or whatever]<br />
+<br />
+and add this line [to the end, if there's something in it]:<br />
+export PYTHONPATH=&quot;/the/path/you/need&quot;</blockquote><br />
+<br />
+<br />
+Thank you. It works. when I run 'gedit ~/bashrc', I found the file actually exits.. which I can't see using 'ls'. <br />
+<br />
+Also I am a little confused about I m doing: I login a workstation in ubuntu and use the terminal to ssh the remote server installed ubuntu too.  Whenever I type 'ls' inside the terminal, it shows the files in the original workstation, but I did successfully login in the remote server (I can tell from the prefix username@machinename). I am totally new to Linux system and I don't know why. Is that normal? All I do must be in the server, hope I am right now. Thanks.<br />
+<br />
+<br />
+</div></div>
+        <div class="small"
+            <span>ID: 17677 &middot; <a href="forum_report_post.php?post=17677"><img class="icon" border="0" title="Report this post as offensive" alt="Report as offensive" src="img/report_post.png" height="9"></a></span></td></tr>
+        <tr><td colspan=2></td></tr>
+    
+        <tr>
+        <td >
+        <a name="17678"></a>
+     <a href="https://boinc.berkeley.edu/dev/show_user.php?userid=3697">0xabad1dea</a><br><span class="small"><img width="100" height="100" src="user_profile/images/3697_avatar.jpg" alt="Avatar"><br><p> </p><a href="pm.php?action=new&amp;userid=3697" title="Send 0xabad1dea a private message" class="btn btn-default btn-xs">Send message</a>
+    <br>Joined: 5 Jun 08<br>Posts: 2<br><img class=flag alt="United States" title="United States" src=flags/us.png>
+</span>
+        </td>
+        <td height="1%">
+        <div class="small">
+    <form action="forum_rate.php?post=17678" method="post"> <a href="forum_thread.php?id=2755&amp;postid=17678">Message 17678</a> - Posted: 5 Jun 2008, 19:08:35 UTC  - in response to <a href="forum_thread.php?id=2755&amp;postid=17677">Message 17677</a>. &nbsp; </form>
+</div>
+        <p>
+    <div class="panel panel-default">
+            <div class="panel-body">Files whose name begins with a dot are hidden by default as they are &quot;clutter&quot;. You can see dotfiles by using &quot;ls -a&quot;<br />
+<br />
+As for your second question, I'd make extra sure you're a) typing in the same terminal you use ssh in, and b) it's maybe just a coincidence that the two computers have the same set of files in their directories (very likely if they're both fresh installs)<br />
+<hr><img hspace="8" class="img-responsive" src="http://boinc.mundayweb.com/one/stats.php?userID=11022&amp;prj=14"> 
+</div></div>
+        <div class="small"
+            <span>ID: 17678 &middot; <a href="forum_report_post.php?post=17678"><img class="icon" border="0" title="Report this post as offensive" alt="Report as offensive" src="img/report_post.png" height="9"></a></span></td></tr>
+        <tr><td colspan=2></td></tr>
+    
+        <tr>
+        <td >
+        <a name="17679"></a>
+     <a href="https://boinc.berkeley.edu/dev/show_user.php?userid=3690">Kunsheng Chen</a><br><span class="small"><p> </p><a href="pm.php?action=new&amp;userid=3690" title="Send Kunsheng Chen a private message" class="btn btn-default btn-xs">Send message</a>
+    <br>Joined: 3 Jun 08<br>Posts: 40<br><img class=flag alt="United States" title="United States" src=flags/us.png>
+</span>
+        </td>
+        <td height="1%">
+        <div class="small">
+    <form action="forum_rate.php?post=17679" method="post"> <a href="forum_thread.php?id=2755&amp;postid=17679">Message 17679</a> - Posted: 5 Jun 2008, 19:19:07 UTC  - in response to <a href="forum_thread.php?id=2755&amp;postid=17678">Message 17678</a>. &nbsp; </form>
+</div>
+        <p>
+    <div class="panel panel-default">
+            <div class="panel-body"><blockquote>Files whose name begins with a dot are hidden by default as they are &quot;clutter&quot;. You can see dotfiles by using &quot;ls -a&quot;<br />
+<br />
+As for your second question, I'd make extra sure you're a) typing in the same terminal you use ssh in, and b) it's maybe just a coincidence that the two computers have the same set of files in their directories (very likely if they're both fresh installs)<br />
+</blockquote><br />
+<br />
+<br />
+wow..thank you for your instant reply. Do you have any idea for the second problem? <br />
+I first login a machine with username@while: and then ssh -X url -p [port] to ssh the remote server. Then the prefix becomre username@lobo, After that I fun svn ** something like that to get boinc resource but now it seems I download it in the @while machine for so long.. How could I get that in the server? I mean the prefix is username@lobo and I run everything after that, really don't know why it downloaded to the @while machine..<br />
+<br />
+</div></div>
+        <div class="small"
+            <span>ID: 17679 &middot; <a href="forum_report_post.php?post=17679"><img class="icon" border="0" title="Report this post as offensive" alt="Report as offensive" src="img/report_post.png" height="9"></a></span></td></tr>
+        <tr><td colspan=2></td></tr>
+    
+        <tr>
+        <td >
+        <a name="17680"></a>
+     <a href="https://boinc.berkeley.edu/dev/show_user.php?userid=2058">Nicolas</a><br><span class="small"><p> </p><a href="pm.php?action=new&amp;userid=2058" title="Send Nicolas a private message" class="btn btn-default btn-xs">Send message</a>
+    <br>Joined: 19 Jan 07<br>Posts: 1174<br><img class=flag alt="Argentina" title="Argentina" src=flags/ar.png>
+</span>
+        </td>
+        <td height="1%">
+        <div class="small">
+    <form action="forum_rate.php?post=17680" method="post"> <a href="forum_thread.php?id=2755&amp;postid=17680">Message 17680</a> - Posted: 5 Jun 2008, 20:16:15 UTC  - in response to <a href="forum_thread.php?id=2755&amp;postid=17667">Message 17667</a>. &nbsp; </form>
+</div>
+        <p>
+    <div class="panel panel-default">
+            <div class="panel-body"><blockquote>It's an emergency for me and I really appreciate any help from you guys.</blockquote><br />
+<a href="http://www.catb.org/~esr/faqs/smart-questions.html#urgent" rel="nofollow">http://www.catb.org/~esr/faqs/smart-questions.html#urgent</a> ;)<hr>
+</div></div>
+        <div class="small"
+            <span>ID: 17680 &middot; <a href="forum_report_post.php?post=17680"><img class="icon" border="0" title="Report this post as offensive" alt="Report as offensive" src="img/report_post.png" height="9"></a></span></td></tr>
+        <tr><td colspan=2></td></tr>
+    </table>
+        </div>
+    <script>function jumpToUnread(){};</script><p><span class=title>
+            <a href="forum_index.php">Message boards</a> : 
+            <a href="forum_forum.php?id=5">Server programs</a> : 
+        Could anyone tell me where is PYTHONPATH in ubuntu?</span>
+        </div>
+        <hr><p class="text-muted">
+        Copyright &copy; 2017  University of California.
+        Permission is granted to copy, distribute and/or modify this document
+        under the terms of the GNU Free Documentation License,
+        Version 1.2 or any later version published by the Free Software Foundation.</p>
+            </body></html>
+    
+        <script src="https://boinc.berkeley.edu/dev//jquery.min.js"></script>
+        <script src="https://boinc.berkeley.edu/dev//bootstrap.min.js"></script>
+        </div>
+        </body>
+        </html>
+    &…Æ$¨      X­KX­Ts=wVi       8    :https://boinc.berkeley.edu/dev/forum_thread.php?id=2755 necko:classified 1 security-info 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 request-method GET response-head HTTP/1.1 200 OK
+Date: Wed, 22 Feb 2017 08:26:08 GMT
+Server: Apache/2.2.15 (Scientific Linux)
+X-Powered-By: PHP/5.3.3
+Expires: Mon, 26 Jul 1997 05:00:00 UTC
+Last-Modified: Wed, 22 Feb 2017 08:26:08 UTC
+Cache-Control: no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+ charset UTF-8 uncompressed-len 0 predictor::resource-count 10 predictor::https://boinc.berkeley.edu/dev//bootstrap.min.css 1,1,1487751966,0 predictor::https://boinc.berkeley.edu/dev/dev_custom.css 1,1,1487751966,0 predictor::https://boinc.berkeley.edu/logo/boinc_logo.png 1,1,1487751966,0 predictor::https://boinc.berkeley.edu/dev/flags/us.png 1,1,1487751966,0 predictor::https://boinc.berkeley.edu/dev/img/report_post.png 1,1,1487751966,0 predictor::https://boinc.berkeley.edu/dev/user_profile/images/3697_avatar.jpg 1,1,1487751966,0 predictor::http://boinc.mundayweb.com/one/stats.php?userID=11022&prj=14 1,1,1487751966,0 predictor::https://boinc.berkeley.edu/dev/flags/ar.png 1,1,1487751966,0 predictor::https://boinc.berkeley.edu/dev//jquery.min.js 1,1,1487751966,0 predictor::https://boinc.berkeley.edu/dev//bootstrap.min.js 1,1,1487751966,0   >à

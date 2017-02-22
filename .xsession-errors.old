@@ -1,0 +1,13 @@
+Script for ibus started at run_im.
+Script for auto started at run_im.
+Script for default started at run_im.
+init: gnome-session (Unity) main process (1782) terminated with status 1
+init: upstart-dbus-session-bridge main process (1742) terminated with status 1
+init: indicator-bluetooth main process (1854) killed by TERM signal
+init: indicator-power main process (1857) killed by TERM signal
+init: indicator-datetime main process (1861) killed by TERM signal
+init: indicator-sound main process (1866) killed by TERM signal
+init: indicator-printers main process (1869) killed by TERM signal
+init: indicator-session main process (1874) killed by TERM signal
+init: indicator-application main process (1890) terminated with status 1
+init: Disconnected from notified D-Bus bus

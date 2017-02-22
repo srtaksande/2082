@@ -1,0 +1,1584 @@
+<!doctype html >
+<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+
+    <title>SONAR Working, Principle, Uses &amp; Application - Science, Education, Health</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="http://educationtimess.com/xmlrpc.php" />
+    <meta property="og:image" content="http://educationtimess.com/wp-content/uploads/2016/09/SoNAR.png" /><meta name="author" content="education">
+<link rel="icon" type="image/png" href="http://educationtimess.com/wp-content/uploads/2016/07/ETs.png">
+<!-- This site is optimized with the Yoast SEO plugin v3.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Know about the SONAR Working and the concept. Also know about Principle of SONAR and SONAR Applications. Get some information regarding SONAR uses."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://educationtimess.com/sonar-working-principle-uses-application/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="SONAR Working, Principle, Uses &amp; Application - Science, Education, Health" />
+<meta property="og:description" content="Know about the SONAR Working and the concept. Also know about Principle of SONAR and SONAR Applications. Get some information regarding SONAR uses." />
+<meta property="og:url" content="http://educationtimess.com/sonar-working-principle-uses-application/" />
+<meta property="og:site_name" content="Science, Education, Health" />
+<meta property="article:tag" content="sonar" />
+<meta property="article:tag" content="sonar application" />
+<meta property="article:tag" content="sonar principle" />
+<meta property="article:tag" content="sonar working" />
+<meta property="article:section" content="Science" />
+<meta property="article:published_time" content="2016-09-05T19:21:53+05:30" />
+<meta property="article:modified_time" content="2016-09-05T19:23:53+05:30" />
+<meta property="og:updated_time" content="2016-09-05T19:23:53+05:30" />
+<meta property="og:image" content="http://educationtimess.com/wp-content/uploads/2016/09/SoNAR.png" />
+<meta property="og:image:width" content="491" />
+<meta property="og:image:height" content="369" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Know about the SONAR Working and the concept. Also know about Principle of SONAR and SONAR Applications. Get some information regarding SONAR uses." />
+<meta name="twitter:title" content="SONAR Working, Principle, Uses &amp; Application - Science, Education, Health" />
+<meta name="twitter:image" content="http://educationtimess.com/wp-content/uploads/2016/09/SoNAR.png" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//clientcdn.pushengage.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Science, Education, Health &raquo; Feed" href="http://educationtimess.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Science, Education, Health &raquo; Comments Feed" href="http://educationtimess.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Science, Education, Health &raquo; SONAR Working, Principle, Uses &#038; Application Comments Feed" href="http://educationtimess.com/sonar-working-principle-uses-application/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/educationtimess.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='st-widget-css'  href='http://educationtimess.com/wp-content/plugins/share-this/css/style.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google_font_open_sans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C400%2C600%2C700&#038;ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google_font_roboto-css'  href='http://fonts.googleapis.com/css?family=Roboto%3A500%2C400italic%2C700%2C900%2C500italic%2C400%2C300&#038;ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://educationtimess.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.12' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-css'  href='http://educationtimess.com/wp-content/themes/Newspaper%20v7.2/Newspaper/style.css?ver=7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-demo-style-css'  href='http://educationtimess.com/wp-content/themes/Newspaper%20v7.2/Newspaper/includes/demos/magazine/demo_style.css?ver=7.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://educationtimess.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://educationtimess.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//clientcdn.pushengage.com/core/3108.js?ver=4.7.2'></script>
+<link rel='https://api.w.org/' href='http://educationtimess.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://educationtimess.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://educationtimess.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.2" />
+<link rel='shortlink' href='http://educationtimess.com/?p=299' />
+<link rel="alternate" type="application/json+oembed" href="http://educationtimess.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Feducationtimess.com%2Fsonar-working-principle-uses-application%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://educationtimess.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Feducationtimess.com%2Fsonar-working-principle-uses-application%2F&#038;format=xml" />
+<script>_pe.subscribe();</script><script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
+<script charset="utf-8" type="text/javascript" id="st_insights_js" src="http://w.sharethis.com/button/buttons.js?publisher=60dcf0a9-28bb-48fc-be7c-97056e166df2&amp;product=sharethis-wordpress"></script>
+<script charset="utf-8" type="text/javascript">stLight.options({"publisher":"60dcf0a9-28bb-48fc-be7c-97056e166df2"});var st_type="wordpress4.6.1";</script>
+<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://educationtimess.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://educationtimess.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><link rel="amphtml" href="http://educationtimess.com/sonar-working-principle-uses-application/amp/" />
+<!-- JS generated by theme -->
+
+<script>
+    
+    
+
+	    var tdBlocksArray = []; //here we store all the items for the current page
+
+	    //td_block class - each ajax block uses a object of this class for requests
+	    function tdBlock() {
+		    this.id = '';
+		    this.block_type = 1; //block type id (1-234 etc)
+		    this.atts = '';
+		    this.td_column_number = '';
+		    this.td_current_page = 1; //
+		    this.post_count = 0; //from wp
+		    this.found_posts = 0; //from wp
+		    this.max_num_pages = 0; //from wp
+		    this.td_filter_value = ''; //current live filter value
+		    this.is_ajax_running = false;
+		    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+		    this.header_color = '';
+		    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+	    }
+
+
+        // td_js_generator - mini detector
+        (function(){
+            var htmlTag = document.getElementsByTagName("html")[0];
+
+            if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+                htmlTag.className += ' ie10';
+            }
+
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+                htmlTag.className += ' ie11';
+            }
+
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+                htmlTag.className += ' td-md-is-ios';
+            }
+
+            var user_agent = navigator.userAgent.toLowerCase();
+            if ( user_agent.indexOf("android") > -1 ) {
+                htmlTag.className += ' td-md-is-android';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+                htmlTag.className += ' td-md-is-os-x';
+            }
+
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+               htmlTag.className += ' td-md-is-chrome';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+                htmlTag.className += ' td-md-is-firefox';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+                htmlTag.className += ' td-md-is-safari';
+            }
+
+        })();
+
+
+
+
+        var tdLocalCache = {};
+
+        ( function () {
+            "use strict";
+
+            tdLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete tdLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return tdLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    tdLocalCache.remove(resource_id);
+                    tdLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
+
+    
+    
+var tds_login_sing_in_widget="show";
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
+var td_animation_stack_effect="type0";
+var tds_animation_stack=true;
+var td_animation_stack_specific_selectors=".entry-thumb, img";
+var td_animation_stack_general_selectors=".td-animation-stack img, .post img";
+var tds_general_modal_image="yes";
+var td_ajax_url="http:\/\/educationtimess.com\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=7.2";
+var td_get_template_directory_uri="http:\/\/educationtimess.com\/wp-content\/themes\/Newspaper%20v7.2\/Newspaper";
+var tds_snap_menu="snap";
+var tds_logo_on_sticky="show";
+var tds_header_style="6";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var tds_more_articles_on_post_enable="show";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=0;
+var tds_theme_color_site_wide="#009688";
+var tds_smart_sidebar="enabled";
+var tdThemeName="Newspaper";
+var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
+var td_magnific_popup_translation_tNext="Next (Right arrow key)";
+var td_magnific_popup_translation_tCounter="%curr% of %total%";
+var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
+var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+</script>
+
+
+<!-- Header style compiled by theme -->
+
+<style>
+    
+.td-header-wrap .black-menu .sf-menu > .current-menu-item > a,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > .current-category-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > li > a:hover,
+    .td-header-wrap .black-menu .sf-menu > .sfHover > a,
+    .td-header-style-12 .td-header-menu-wrap-full,
+    .sf-menu > .current-menu-item > a:after,
+    .sf-menu > .current-menu-ancestor > a:after,
+    .sf-menu > .current-category-ancestor > a:after,
+    .sf-menu > li:hover > a:after,
+    .sf-menu > .sfHover > a:after,
+    .sf-menu ul .td-menu-item > a:hover,
+    .sf-menu ul .sfHover > a,
+    .sf-menu ul .current-menu-ancestor > a,
+    .sf-menu ul .current-category-ancestor > a,
+    .sf-menu ul .current-menu-item > a,
+    .td-header-style-12 .td-affix,
+    .header-search-wrap .td-drop-down-search:after,
+    .header-search-wrap .td-drop-down-search .btn:hover,
+    input[type=submit]:hover,
+    .td-read-more a,
+    .td-post-category:hover,
+    .td-grid-style-1.td-hover-1 .td-big-grid-post:hover .td-post-category,
+    .td-grid-style-5.td-hover-1 .td-big-grid-post:hover .td-post-category,
+    .td_top_authors .td-active .td-author-post-count,
+    .td_top_authors .td-active .td-author-comments-count,
+    .td_top_authors .td_mod_wrap:hover .td-author-post-count,
+    .td_top_authors .td_mod_wrap:hover .td-author-comments-count,
+    .td-404-sub-sub-title a:hover,
+    .td-search-form-widget .wpb_button:hover,
+    .td-rating-bar-wrap div,
+    .td_category_template_3 .td-current-sub-category,
+    .mfp-content .td-login-wrap .btn,
+    .mfp-content .td_display_err,
+    .mfp-content .td_display_msg_ok,
+    .dropcap,
+    .td_wrapper_video_playlist .td_video_controls_playlist_wrapper,
+    .wpb_default,
+    .wpb_default:hover,
+    .td-left-smart-list:hover,
+    .td-right-smart-list:hover,
+    .woocommerce-checkout .woocommerce input.button:hover,
+    .woocommerce-page .woocommerce a.button:hover,
+    .woocommerce-account div.woocommerce .button:hover,
+    #bbpress-forums button:hover,
+    .bbp_widget_login .button:hover,
+    .td-footer-wrapper .td-post-category,
+    .td-footer-wrapper .widget_product_search input[type="submit"]:hover,
+    .woocommerce .product a.button:hover,
+    .woocommerce .product #respond input#submit:hover,
+    .woocommerce .checkout input#place_order:hover,
+    .woocommerce .woocommerce.widget .button:hover,
+    .single-product .product .summary .cart .button:hover,
+    .woocommerce-cart .woocommerce table.cart .button:hover,
+    .woocommerce-cart .woocommerce .shipping-calculator-form .button:hover,
+    .td-next-prev-wrap a:hover,
+    .td-load-more-wrap a:hover,
+    .td-post-small-box a:hover,
+    .page-nav .current,
+    .page-nav:first-child > div,
+    .td_category_template_8 .td-category-header .td-category a.td-current-sub-category,
+    .td_category_template_4 .td-category-siblings .td-category a:hover,
+    #bbpress-forums .bbp-pagination .current,
+    #bbpress-forums #bbp-single-user-details #bbp-user-navigation li.current a,
+    .td-theme-slider:hover .slide-meta-cat a,
+    a.vc_btn-black:hover,
+    .td-trending-now-wrapper:hover .td-trending-now-title,
+    .td-scroll-up,
+    .td-smart-list-button:hover,
+    .td-weather-information:before,
+    .td-weather-week:before,
+    .td_block_exchange .td-exchange-header:before,
+    .td_block_big_grid_9.td-grid-style-1 .td-post-category,
+    .td_block_big_grid_9.td-grid-style-5 .td-post-category,
+    .td-grid-style-6.td-hover-1 .td-module-thumb:after {
+        background-color: #009688;
+    }
+
+    .woocommerce .woocommerce-message .button:hover,
+    .woocommerce .woocommerce-error .button:hover,
+    .woocommerce .woocommerce-info .button:hover {
+        background-color: #009688 !important;
+    }
+
+    .woocommerce .product .onsale,
+    .woocommerce.widget .ui-slider .ui-slider-handle {
+        background: none #009688;
+    }
+
+    .woocommerce.widget.widget_layered_nav_filters ul li a {
+        background: none repeat scroll 0 0 #009688 !important;
+    }
+
+    a,
+    cite a:hover,
+    .td_mega_menu_sub_cats .cur-sub-cat,
+    .td-mega-span h3 a:hover,
+    .td_mod_mega_menu:hover .entry-title a,
+    .header-search-wrap .result-msg a:hover,
+    .top-header-menu li a:hover,
+    .top-header-menu .current-menu-item > a,
+    .top-header-menu .current-menu-ancestor > a,
+    .top-header-menu .current-category-ancestor > a,
+    .td-social-icon-wrap > a:hover,
+    .td-header-sp-top-widget .td-social-icon-wrap a:hover,
+    .td-page-content blockquote p,
+    .td-post-content blockquote p,
+    .mce-content-body blockquote p,
+    .comment-content blockquote p,
+    .wpb_text_column blockquote p,
+    .td_block_text_with_title blockquote p,
+    .td_module_wrap:hover .entry-title a,
+    .td-subcat-filter .td-subcat-list a:hover,
+    .td-subcat-filter .td-subcat-dropdown a:hover,
+    .td_quote_on_blocks,
+    .dropcap2,
+    .dropcap3,
+    .td_top_authors .td-active .td-authors-name a,
+    .td_top_authors .td_mod_wrap:hover .td-authors-name a,
+    .td-post-next-prev-content a:hover,
+    .author-box-wrap .td-author-social a:hover,
+    .td-author-name a:hover,
+    .td-author-url a:hover,
+    .td_mod_related_posts:hover h3 > a,
+    .td-post-template-11 .td-related-title .td-related-left:hover,
+    .td-post-template-11 .td-related-title .td-related-right:hover,
+    .td-post-template-11 .td-related-title .td-cur-simple-item,
+    .td-post-template-11 .td_block_related_posts .td-next-prev-wrap a:hover,
+    .comment-reply-link:hover,
+    .logged-in-as a:hover,
+    #cancel-comment-reply-link:hover,
+    .td-search-query,
+    .td-category-header .td-pulldown-category-filter-link:hover,
+    .td-category-siblings .td-subcat-dropdown a:hover,
+    .td-category-siblings .td-subcat-dropdown a.td-current-sub-category,
+    .mfp-content .td-login-wrap .td-login-info-text a:hover,
+    .widget a:hover,
+    .widget_calendar tfoot a:hover,
+    .woocommerce a.added_to_cart:hover,
+    #bbpress-forums li.bbp-header .bbp-reply-content span a:hover,
+    #bbpress-forums .bbp-forum-freshness a:hover,
+    #bbpress-forums .bbp-topic-freshness a:hover,
+    #bbpress-forums .bbp-forums-list li a:hover,
+    #bbpress-forums .bbp-forum-title:hover,
+    #bbpress-forums .bbp-topic-permalink:hover,
+    #bbpress-forums .bbp-topic-started-by a:hover,
+    #bbpress-forums .bbp-topic-started-in a:hover,
+    #bbpress-forums .bbp-body .super-sticky li.bbp-topic-title .bbp-topic-permalink,
+    #bbpress-forums .bbp-body .sticky li.bbp-topic-title .bbp-topic-permalink,
+    .widget_display_replies .bbp-author-name,
+    .widget_display_topics .bbp-author-name,
+    .footer-text-wrap .footer-email-wrap a,
+    .td-subfooter-menu li a:hover,
+    .footer-social-wrap a:hover,
+    a.vc_btn-black:hover,
+    .td-smart-list-dropdown-wrap .td-smart-list-button:hover,
+    .td_module_17 .td-read-more a:hover,
+    .td_module_18 .td-read-more a:hover,
+    .td_module_19 .td-post-author-name a:hover,
+    .td-instagram-user a {
+        color: #009688;
+    }
+
+    .mfp-content .td_login_tab_focus,
+    a.vc_btn-black.vc_btn_square_outlined:hover,
+    a.vc_btn-black.vc_btn_outlined:hover,
+    .td-mega-menu-page .wpb_content_element ul li a:hover {
+        color: #009688 !important;
+    }
+
+    .td-next-prev-wrap a:hover,
+    .td-load-more-wrap a:hover,
+    .td-post-small-box a:hover,
+    .page-nav .current,
+    .page-nav:first-child > div,
+    .td_category_template_8 .td-category-header .td-category a.td-current-sub-category,
+    .td_category_template_4 .td-category-siblings .td-category a:hover,
+    #bbpress-forums .bbp-pagination .current,
+    .mfp-content .td-login-panel-title,
+    .post .td_quote_box,
+    .page .td_quote_box,
+    a.vc_btn-black:hover {
+        border-color: #009688;
+    }
+
+    .td_wrapper_video_playlist .td_video_currently_playing:after {
+        border-color: #009688 !important;
+    }
+
+    .header-search-wrap .td-drop-down-search:before {
+        border-color: transparent transparent #009688 transparent;
+    }
+
+    .block-title > span,
+    .block-title > a,
+    .block-title > label,
+    .widgettitle,
+    .widgettitle:after,
+    .td-trending-now-title,
+    .td-trending-now-wrapper:hover .td-trending-now-title,
+    .wpb_tabs li.ui-tabs-active a,
+    .wpb_tabs li:hover a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
+    .td-related-title .td-cur-simple-item,
+    .woocommerce .product .products h2,
+    .td-subcat-filter .td-subcat-dropdown:hover .td-subcat-more {
+    	background-color: #009688;
+    }
+
+    .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+    	background-color: #009688 !important;
+    }
+
+    .block-title,
+    .td-related-title,
+    .wpb_tabs .wpb_tabs_nav,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container,
+    .woocommerce div.product .woocommerce-tabs ul.tabs:before {
+        border-color: #009688;
+    }
+    .td_block_wrap .td-subcat-item .td-cur-simple-item {
+	    color: #009688;
+	}
+
+
+    
+    .td-grid-style-4 .entry-title
+    {
+        background-color: rgba(0, 150, 136, 0.7);
+    }
+
+    
+    .block-title > span,
+    .block-title > a,
+    .widgettitle,
+    .td-trending-now-title,
+    .wpb_tabs li.ui-tabs-active a,
+    .wpb_tabs li:hover a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
+    .td-related-title .td-cur-simple-item,
+    .woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+    .woocommerce .product .products h2 {
+    	color: #222222;
+    }
+
+
+    
+    .td-header-wrap .td-header-top-menu-full,
+    .td-header-wrap .top-header-menu .sub-menu {
+        background-color: #f9f9f9;
+    }
+    .td-header-style-8 .td-header-top-menu-full {
+        background-color: transparent;
+    }
+    .td-header-style-8 .td-header-top-menu-full .td-header-top-menu {
+        background-color: #f9f9f9;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .td-header-wrap .td-header-top-menu-full .td-header-top-menu,
+    .td-header-wrap .td-header-top-menu-full {
+        border-bottom: none;
+    }
+
+
+    
+    .td-header-top-menu,
+    .td-header-top-menu a,
+    .td-header-wrap .td-header-top-menu-full .td-header-top-menu,
+    .td-header-wrap .td-header-top-menu-full a,
+    .td-header-style-8 .td-header-top-menu,
+    .td-header-style-8 .td-header-top-menu a {
+        color: #2f2f2f;
+    }
+
+    
+    .top-header-menu .current-menu-item > a,
+    .top-header-menu .current-menu-ancestor > a,
+    .top-header-menu .current-category-ancestor > a,
+    .top-header-menu li a:hover {
+        color: #009688;
+    }
+
+    
+    .td-header-wrap .td-header-sp-top-widget .td-icon-font {
+        color: #2f2f2f;
+    }
+
+    
+    .td-header-wrap .td-header-sp-top-widget i.td-icon-font:hover {
+        color: #009688;
+    }
+
+
+    
+    .td-header-wrap .td-header-menu-wrap-full,
+    .sf-menu > .current-menu-ancestor > a,
+    .sf-menu > .current-category-ancestor > a,
+    .td-header-menu-wrap.td-affix,
+    .td-header-style-3 .td-header-main-menu,
+    .td-header-style-3 .td-affix .td-header-main-menu,
+    .td-header-style-4 .td-header-main-menu,
+    .td-header-style-4 .td-affix .td-header-main-menu,
+    .td-header-style-8 .td-header-menu-wrap.td-affix,
+    .td-header-style-8 .td-header-top-menu-full {
+		background-color: #303030;
+    }
+
+
+    .td-boxed-layout .td-header-style-3 .td-header-menu-wrap,
+    .td-boxed-layout .td-header-style-4 .td-header-menu-wrap {
+    	background-color: #303030 !important;
+    }
+
+
+    @media (min-width: 1019px) {
+        .td-header-style-1 .td-header-sp-recs,
+        .td-header-style-1 .td-header-sp-logo {
+            margin-bottom: 28px;
+        }
+    }
+
+    @media (min-width: 768px) and (max-width: 1018px) {
+        .td-header-style-1 .td-header-sp-recs,
+        .td-header-style-1 .td-header-sp-logo {
+            margin-bottom: 14px;
+        }
+    }
+
+    .td-header-style-7 .td-header-top-menu {
+        border-bottom: none;
+    }
+
+
+    
+    .sf-menu ul .td-menu-item > a:hover,
+    .sf-menu ul .sfHover > a,
+    .sf-menu ul .current-menu-ancestor > a,
+    .sf-menu ul .current-category-ancestor > a,
+    .sf-menu ul .current-menu-item > a,
+    .sf-menu > .current-menu-item > a:after,
+    .sf-menu > .current-menu-ancestor > a:after,
+    .sf-menu > .current-category-ancestor > a:after,
+    .sf-menu > li:hover > a:after,
+    .sf-menu > .sfHover > a:after,
+    .td_block_mega_menu .td-next-prev-wrap a:hover,
+    .td-mega-span .td-post-category:hover,
+    .td-header-wrap .black-menu .sf-menu > li > a:hover,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > .sfHover > a,
+    .header-search-wrap .td-drop-down-search:after,
+    .header-search-wrap .td-drop-down-search .btn:hover,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-item > a,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > .current-category-ancestor > a {
+        background-color: #020000;
+    }
+
+
+    .td_block_mega_menu .td-next-prev-wrap a:hover {
+        border-color: #020000;
+    }
+
+    .header-search-wrap .td-drop-down-search:before {
+        border-color: transparent transparent #020000 transparent;
+    }
+
+    .td_mega_menu_sub_cats .cur-sub-cat,
+    .td_mod_mega_menu:hover .entry-title a {
+        color: #020000;
+    }
+
+
+    
+    .td-header-wrap .td-header-menu-wrap .sf-menu > li > a,
+    .td-header-wrap .header-search-wrap .td-icon-search {
+        color: #efefef;
+    }
+
+
+    
+    .td-menu-background:before,
+    .td-search-background:before {
+        background: rgba(69,132,112,0.85);
+        background: -moz-linear-gradient(top, rgba(69,132,112,0.85) 0%, rgba(18,129,153,0.85) 100%);
+        background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(69,132,112,0.85)), color-stop(100%, rgba(18,129,153,0.85)));
+        background: -webkit-linear-gradient(top, rgba(69,132,112,0.85) 0%, rgba(18,129,153,0.85) 100%);
+        background: -o-linear-gradient(top, rgba(69,132,112,0.85) 0%, @mobileu_gradient_two_mob 100%);
+        background: -ms-linear-gradient(top, rgba(69,132,112,0.85) 0%, rgba(18,129,153,0.85) 100%);
+        background: linear-gradient(to bottom, rgba(69,132,112,0.85) 0%, rgba(18,129,153,0.85) 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(69,132,112,0.85)', endColorstr='rgba(18,129,153,0.85)', GradientType=0 );
+    }
+
+    
+    .td-mobile-content .current-menu-item > a,
+    .td-mobile-content .current-menu-ancestor > a,
+    .td-mobile-content .current-category-ancestor > a,
+    #td-mobile-nav .td-menu-login-section a:hover,
+    #td-mobile-nav .td-register-section a:hover,
+    #td-mobile-nav .td-menu-socials-wrap a:hover i,
+    .td-search-close a:hover i {
+        color: #e9ed6c;
+    }
+
+    
+    .td-footer-wrapper::before {
+        background-size: 100% auto;
+    }
+
+    
+    .td-footer-wrapper::before {
+        opacity: 0.6;
+    }
+
+
+
+    
+    .top-header-menu > li > a,
+    .td-weather-top-widget .td-weather-now .td-big-degrees,
+    .td-weather-top-widget .td-weather-header .td-weather-city,
+    .td-header-sp-top-menu .td_data_time {
+        line-height:27px;
+	
+    }
+    
+    ul.sf-menu > .td-menu-item > a {
+        font-size:13px;
+	font-weight:normal;
+	text-transform:none;
+	
+    }
+    
+    .block-title > span,
+    .block-title > a,
+    .widgettitle,
+    .td-trending-now-title,
+    .wpb_tabs li a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab > a,
+    .td-related-title a,
+    .woocommerce div.product .woocommerce-tabs ul.tabs li a,
+    .woocommerce .product .products h2 {
+        font-size:18px;
+	font-weight:bold;
+	text-transform:uppercase;
+	
+    }
+    
+    .td-header-sp-top-widget .td-social-icon-wrap .td-icon-font {
+        line-height: 27px;
+    }
+
+
+
+/* Style generated by theme for demo: magazine */
+
+.td-magazine .td-header-style-1 .td-header-gradient::before,
+		.td-magazine .td-header-style-1 .td-mega-span .td-post-category:hover,
+		.td-magazine .td-header-style-1 .header-search-wrap .td-drop-down-search::after {
+			background-color: #009688;
+		}
+
+		.td-magazine .td-header-style-1 .td_mod_mega_menu:hover .entry-title a,
+		.td-magazine .td-header-style-1 .td_mega_menu_sub_cats .cur-sub-cat,
+		.td-magazine .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+		.td-magazine .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
+		.td-magazine .td-related-title .td-cur-simple-item {
+			color: #009688;
+		}
+
+		.td-magazine .td-header-style-1 .header-search-wrap .td-drop-down-search::before {
+			border-color: transparent transparent #009688;
+		}
+
+		.td-magazine .td-header-style-1 .td-header-top-menu-full {
+			border-top-color: #009688;
+		}
+</style>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-71063758-1', 'auto');
+  ga('send', 'pageview');
+
+</script><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><meta name="google-site-verification" content="DkdVqCct2eHEQXv8gMYtITkMkFepzFwb6w5CiX6HLXo" />
+<meta name="google-site-verification" content="nNk2JZhj2aErbJ40esazORDcuEbEGUIYN4OXKr5k-3A" />
+<meta name="myblogguest-verification" content="MTkyN2Q5MzcwZmRlZGFiYjA2MmU4NDU0MjBiNWM1YmQ=" />
+<meta name="msvalidate.01" content="FAFDDA5E88D05A9144A54B70C515F75A" />
+</head>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-81176780-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<body class="post-template-default single single-post postid-299 single-format-standard sonar-working-principle-uses-application td-magazine wpb-js-composer js-comp-ver-4.12 vc_responsive td-animation-stack-type0 td-full-layout" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+
+        <div class="td-scroll-up"><i class="td-icon-menu-up"></i></div>
+    
+    <div class="td-menu-background"></div>
+<div id="td-mobile-nav">
+    <div class="td-mobile-container">
+        <!-- mobile menu top section -->
+        <div class="td-menu-socials-wrap">
+            <!-- socials -->
+            <div class="td-menu-socials">
+                
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Behance">
+                <i class="td-icon-font td-icon-behance"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.facebook.com/dronepic.vimaan" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://plus.google.com/+DronepicIn" title="Google+">
+                <i class="td-icon-font td-icon-googleplus"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Instagram">
+                <i class="td-icon-font td-icon-instagram"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Vimeo">
+                <i class="td-icon-font td-icon-vimeo"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="VKontakte">
+                <i class="td-icon-font td-icon-vk"></i>
+            </a>
+        </span>            </div>
+            <!-- close button -->
+            <div class="td-mobile-close">
+                <a href="#"><i class="td-icon-close-mobile"></i></a>
+            </div>
+        </div>
+
+        <!-- login section -->
+                    <div class="td-menu-login-section">
+                
+    <div class="td-guest-wrap">
+        <div class="td-menu-avatar"><div class="td-avatar-container"><img alt='' src='http://2.gravatar.com/avatar/?s=80&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/?s=160&amp;d=mm&amp;r=g 2x' class='avatar avatar-80 photo avatar-default' height='80' width='80' /></div></div>
+        <div class="td-menu-login"><a id="login-link-mob">Sign in</a></div>
+    </div>
+            </div>
+        
+        <!-- menu section -->
+        <div class="td-mobile-content">
+            <div class="menu-et-container"><ul id="menu-et" class="td-mobile-main-menu"><li id="menu-item-91" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-first menu-item-91"><a href="http://educationtimess.com">Home</a></li>
+<li id="menu-item-86" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-86"><a href="http://educationtimess.com/category/exams/">Exams</a></li>
+<li id="menu-item-6" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6"><a href="http://educationtimess.com/category/career/">Career</a></li>
+<li id="menu-item-7" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7"><a href="http://educationtimess.com/category/disease/">Disease</a></li>
+<li id="menu-item-144" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-144"><a href="http://educationtimess.com/category/fitness/">Fitness</a></li>
+<li id="menu-item-85" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-85"><a href="http://educationtimess.com/category/world-health-day/">World Health Day</a></li>
+<li id="menu-item-90" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-90"><a href="http://educationtimess.com/category/science/">Science</a></li>
+<li id="menu-item-105" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-105"><a href="http://educationtimess.com/category/how-to/">How to</a></li>
+</ul></div>        </div>
+    </div>
+
+    <!-- register/login section -->
+            <div id="login-form-mobile" class="td-register-section">
+            
+            <div id="td-login-mob" class="td-login-animation td-login-hide-mob">
+            	<!-- close button -->
+	            <div class="td-login-close">
+	                <a href="#" class="td-back-button"><i class="td-icon-read-down"></i></a>
+	                <div class="td-login-title">Sign in</div>
+	                <!-- close button -->
+		            <div class="td-mobile-close">
+		                <a href="#"><i class="td-icon-close-mobile"></i></a>
+		            </div>
+	            </div>
+	            <div class="td-login-form-wrap">
+	                <div class="td-login-panel-title"><span>Welcome!</span>Log into your account</div>
+	                <div class="td_display_err"></div>
+	                <div class="td-login-inputs"><input class="td-login-input" type="text" name="login_email" id="login_email-mob" value="" required><label>your username</label></div>
+	                <div class="td-login-inputs"><input class="td-login-input" type="password" name="login_pass" id="login_pass-mob" value="" required><label>your password</label></div>
+	                <input type="button" name="login_button" id="login_button-mob" class="td-login-button" value="LOG IN">
+	                <div class="td-login-info-text"><a href="#" id="forgot-pass-link-mob">Forgot your password?</a></div>
+                </div>
+            </div>
+
+            
+
+            <div id="td-forgot-pass-mob" class="td-login-animation td-login-hide-mob">
+                <!-- close button -->
+	            <div class="td-forgot-pass-close">
+	                <a href="#" class="td-back-button"><i class="td-icon-read-down"></i></a>
+	                <div class="td-login-title">Password recovery</div>
+	            </div>
+	            <div class="td-login-form-wrap">
+	                <div class="td-login-panel-title">Recover your password</div>
+	                <div class="td_display_err"></div>
+	                <div class="td-login-inputs"><input class="td-login-input" type="text" name="forgot_email" id="forgot_email-mob" value="" required><label>your email</label></div>
+	                <input type="button" name="forgot_button" id="forgot_button-mob" class="td-login-button" value="Send My Pass">
+                </div>
+            </div>
+        </div>
+    </div>    <div class="td-search-background"></div>
+<div class="td-search-wrap-mob">
+	<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+		<form method="get" class="td-search-form" action="http://educationtimess.com/">
+			<!-- close button -->
+			<div class="td-search-close">
+				<a href="#"><i class="td-icon-close-mobile"></i></a>
+			</div>
+			<div role="search" class="td-search-input">
+				<span>Search</span>
+				<input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off" />
+			</div>
+		</form>
+		<div id="td-aj-search-mob"></div>
+	</div>
+</div>    
+    
+    <div id="td-outer-wrap">
+
+    
+        <!--
+Header style 6
+-->
+
+<div class="td-header-wrap td-header-style-6">
+
+    <div class="td-header-top-menu-full">
+        <div class="td-container td-header-row td-header-top-menu">
+            
+    <div class="top-bar-style-1">
+        
+<div class="td-header-sp-top-menu">
+
+
+	        <div class="td_data_time">
+            <div >
+
+                Wednesday, February 22, 2017
+            </div>
+        </div>
+    <ul class="top-header-menu td_ul_login"><li class="menu-item"><a class="td-login-modal-js menu-item" href="#login-form" data-effect="mpf-td-login-effect">Sign in / Join</a><span class="td-sp-ico-login td_sp_login_ico_style"></span></li></ul></div>
+        <div class="td-header-sp-top-widget">
+    
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Behance">
+                <i class="td-icon-font td-icon-behance"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.facebook.com/dronepic.vimaan" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://plus.google.com/+DronepicIn" title="Google+">
+                <i class="td-icon-font td-icon-googleplus"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Instagram">
+                <i class="td-icon-font td-icon-instagram"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="Vimeo">
+                <i class="td-icon-font td-icon-vimeo"></i>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="#" title="VKontakte">
+                <i class="td-icon-font td-icon-vk"></i>
+            </a>
+        </span></div>
+    </div>
+
+<!-- LOGIN MODAL -->
+
+                <div  id="login-form" class="white-popup-block mfp-hide mfp-with-anim">
+                    <ul class="td-login-tabs">
+                        <li><a id="login-link" class="td_login_tab_focus">LOG IN</a></li>
+                    </ul>
+
+
+
+                    <div class="td-login-wrap">
+                        <div class="td_display_err"></div>
+
+                        <div id="td-login-div" class="">
+                            <div class="td-login-panel-title">Welcome! Log into your account</div>
+                            <input class="td-login-input" type="text" name="login_email" id="login_email" placeholder="your username" value="" required>
+                            <input class="td-login-input" type="password" name="login_pass" id="login_pass" value="" placeholder="your password" required>
+                            <input type="button" name="login_button" id="login_button" class="wpb_button btn td-login-button" value="Log In">
+
+
+                            <div class="td-login-info-text"><a href="#" id="forgot-pass-link">Forgot your password?</a></div>
+
+
+                        </div>
+
+                        
+
+                         <div id="td-forgot-pass-div" class="td-display-none">
+                            <div class="td-login-panel-title">Recover your password</div>
+                            <input class="td-login-input" type="text" name="forgot_email" id="forgot_email" placeholder="your email" value="" required>
+                            <input type="button" name="forgot_button" id="forgot_button" class="wpb_button btn td-login-button" value="Send My Pass">
+                        </div>
+
+
+
+
+                    </div>
+                </div>
+                        </div>
+    </div>
+
+    <div class="td-header-menu-wrap-full">
+        <div class="td-header-menu-wrap">
+            <div class="td-container td-header-row td-header-main-menu black-menu">
+                <div id="td-header-menu" role="navigation">
+    <div id="td-top-mobile-toggle"><a href="#"><i class="td-icon-font td-icon-mobile"></i></a></div>
+    <div class="td-main-menu-logo td-logo-in-menu">
+        		<a class="td-mobile-logo td-sticky-mobile" href="http://educationtimess.com/">
+			<img class="td-retina-data" data-retina="http://educationtimess.com/wp-content/uploads/2016/07/ETs.png" src="http://educationtimess.com/wp-content/uploads/2016/07/ETs.png" alt=""/>
+		</a>
+			<a class="td-header-logo td-sticky-mobile" href="http://educationtimess.com/">
+			<img class="td-retina-data" data-retina="http://educationtimess.com/wp-content/uploads/2016/07/ETs.png" src="http://educationtimess.com/wp-content/uploads/2016/07/ETs.png" alt=""/>
+			<span class="td-visual-hidden">Science, Education, Health</span>
+		</a>
+	    </div>
+    <div class="menu-et-container"><ul id="menu-et-1" class="sf-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-first td-menu-item td-normal-menu menu-item-91"><a href="http://educationtimess.com">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-86"><a href="http://educationtimess.com/category/exams/">Exams</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-6"><a href="http://educationtimess.com/category/career/">Career</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-7"><a href="http://educationtimess.com/category/disease/">Disease</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-144"><a href="http://educationtimess.com/category/fitness/">Fitness</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-85"><a href="http://educationtimess.com/category/world-health-day/">World Health Day</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent td-menu-item td-normal-menu menu-item-90"><a href="http://educationtimess.com/category/science/">Science</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-105"><a href="http://educationtimess.com/category/how-to/">How to</a></li>
+</ul></div></div>
+
+
+<div class="td-search-wrapper">
+    <div id="td-top-search">
+        <!-- Search -->
+        <div class="header-search-wrap">
+            <div class="dropdown header-search">
+                <a id="td-header-search-button" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+                <a id="td-header-search-button-mob" href="#" role="button" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="header-search-wrap">
+	<div class="dropdown header-search">
+		<div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+			<form method="get" class="td-search-form" action="http://educationtimess.com/">
+				<div role="search" class="td-head-form-search-wrap">
+					<input id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search" />
+				</div>
+			</form>
+			<div id="td-aj-search"></div>
+		</div>
+	</div>
+</div>            </div>
+        </div>
+    </div>
+
+    <div class="td-banner-wrap-full">
+        <div class="td-container-header td-header-row td-header-header">
+            <div class="td-header-sp-recs">
+                <div class="td-header-rec-wrap">
+    
+</div>            </div>
+        </div>
+    </div>
+
+</div><div class="td-main-content-wrap">
+
+    <div class="td-container td-post-template-default ">
+        <div class="td-crumb-container"><div class="entry-crumbs"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a title="" class="entry-crumb" itemprop="url" href="http://educationtimess.com/"><span itemprop="title">Home</span></a></span> <i class="td-icon-right td-bread-sep"></i> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a title="View all posts in Science" class="entry-crumb" itemprop="url" href="http://educationtimess.com/category/science/"><span itemprop="title">Science</span></a></span> <i class="td-icon-right td-bread-sep td-bred-no-url-last"></i> <span class="td-bred-no-url-last" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><meta itemprop="title" content = "SONAR Working, Principle, Uses &#038; Application"><meta itemprop="url" content = "http://educationtimess.com/sonar-working-principle-uses-application/">SONAR Working, Principle, Uses &#038; Application</span></div></div>
+
+        <div class="td-pb-row">
+                                    <div class="td-pb-span8 td-main-content" role="main">
+                            <div class="td-ss-main-content">
+                                
+    <article id="post-299" class="post-299 post type-post status-publish format-standard has-post-thumbnail hentry category-science tag-sonar tag-sonar-application tag-sonar-principle tag-sonar-working" itemscope itemtype="http://schema.org/Article">
+        <div class="td-post-header">
+
+            <ul class="td-category"><li class="entry-category"><a  href="http://educationtimess.com/category/science/">Science</a></li></ul>
+            <header class="td-post-title">
+                <h1 class="entry-title">SONAR Working, Principle, Uses &#038; Application</h1>
+
+                
+
+                <div class="td-module-meta-info">
+                    <div class="td-post-author-name">By <a href="http://educationtimess.com/author/pawan/">education</a> - </div>                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-09-05T19:21:53+00:00" >September 5, 2016</time></span>                    <div class="td-post-comments"><a href="http://educationtimess.com/sonar-working-principle-uses-application/#respond"><i class="td-icon-comments"></i>0</a></div>                    <div class="td-post-views"><i class="td-icon-views"></i><span class="td-nr-views-299">2606</span></div>                </div>
+
+            </header>
+
+        </div>
+
+        <div class="td-post-sharing td-post-sharing-top ">
+				<div class="td-default-sharing">
+		            <a class="td-social-sharing-buttons td-social-facebook" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Feducationtimess.com%2Fsonar-working-principle-uses-application%2F" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-facebook"></i><div class="td-social-but-text">Share on Facebook</div></a>
+		            <a class="td-social-sharing-buttons td-social-twitter" href="https://twitter.com/intent/tweet?text=SONAR+Working%2C+Principle%2C+Uses+%26+Application&url=http%3A%2F%2Feducationtimess.com%2Fsonar-working-principle-uses-application%2F&via=Science%2C+Education%2C+Health"  ><i class="td-icon-twitter"></i><div class="td-social-but-text">Tweet on Twitter</div></a>
+		            <a class="td-social-sharing-buttons td-social-google" href="http://plus.google.com/share?url=http://educationtimess.com/sonar-working-principle-uses-application/" onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-googleplus"></i></a>
+		            <a class="td-social-sharing-buttons td-social-pinterest" href="http://pinterest.com/pin/create/button/?url=http://educationtimess.com/sonar-working-principle-uses-application/&amp;media=http://educationtimess.com/wp-content/uploads/2016/09/SoNAR.png&description=Know about the SONAR Working and the concept. Also know about Principle of SONAR and SONAR Applications. Get some information regarding SONAR uses." onclick="window.open(this.href, 'mywin','left=50,top=50,width=600,height=350,toolbar=0'); return false;"><i class="td-icon-pinterest"></i></a>
+		            <a class="td-social-sharing-buttons td-social-whatsapp" href="whatsapp://send?text=SONAR+Working%2C+Principle%2C+Uses+%26+Application%20-%20http%3A%2F%2Feducationtimess.com%2Fsonar-working-principle-uses-application%2F" ><i class="td-icon-whatsapp"></i></a>
+	            </div></div>
+
+        <div class="td-post-content">
+
+        
+        
+<!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
+<div style="float:none;margin:10px 0 10px 0;text-align:center;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- resp -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6579325798612802"
+     data-ad-slot="2086674978"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<p><strong>SONAR</strong>: Sonar as we have all listen in our daily life but we must not be knowing everything about it. Lets discuss all about <strong>SONAR Working, Sonar Uses, Sonar Application and Principle of Sonar</strong>. SONAR is also known as Sound Navigation And Ranging, it is a technique used to navigate, communicate by using sound propagation. SONAR is used for detection on or under the surface of water.  So today we will discuss about SONAR:</p>
+<ul>
+<li>Sonar Working</li>
+<li>Sonar Uses</li>
+<li>Sonar Principle</li>
+<li>Sonar Application</li>
+</ul>
+<p><span id="more-299"></span></p>
+<h3>SONAR Working</h3>
+<p>We will discuss about the <strong>SONAR Working</strong> in Lyman term. SONAR uses echo to navigate and detect any obstacle. Echo is the sound radiate by machine or animal in the surrounding. The sound waves after travelling into the environment bounces back to the object. So <strong>Sound Navigation and Ranging</strong> also works on the technique that the instrument radiates sound waves, and traces back the sound waves bounced back by the obstacle. These techniques are used by Bats, Whales and some of the specialized machines.</p>
+<p><img class="aligncenter wp-image-300" src="http://educationtimess.com/wp-content/uploads/2016/09/sonar-300x272.gif" alt="sonar, sonar working, sonar principle, sonar application" width="340" height="308" srcset="http://educationtimess.com/wp-content/uploads/2016/09/sonar-300x272.gif 300w, http://educationtimess.com/wp-content/uploads/2016/09/sonar-463x420.gif 463w" sizes="(max-width: 340px) 100vw, 340px" /></p>
+<p>There are different frequencies on which SONAR works. Whales and Dolphins can detect the objects 50 feet (15 meters) away. They mainly use SONAR for detection of families, food and direction.</p>
+<p>For example: Example: Let’s assume that the time variation is 3 seconds and that the speed of sound in water is 1440 m/s the distance to the object would be:<br />
+(1440 m/s * 3 seconds)/2 = 2160m</p>
+<h3>SONAR Principle</h3>
+<p><img class="aligncenter wp-image-303" src="http://educationtimess.com/wp-content/uploads/2016/09/SONAR-Working-300x161.png" alt="sonar, sonar working, sonar principle, sonar application" width="388" height="208" srcset="http://educationtimess.com/wp-content/uploads/2016/09/SONAR-Working-300x161.png 300w, http://educationtimess.com/wp-content/uploads/2016/09/SONAR-Working-768x412.png 768w, http://educationtimess.com/wp-content/uploads/2016/09/SONAR-Working-1024x549.png 1024w, http://educationtimess.com/wp-content/uploads/2016/09/SONAR-Working-696x373.png 696w, http://educationtimess.com/wp-content/uploads/2016/09/SONAR-Working-1068x573.png 1068w, http://educationtimess.com/wp-content/uploads/2016/09/SONAR-Working-783x420.png 783w" sizes="(max-width: 388px) 100vw, 388px" /></p>
+<p>As we discussed about the <strong>SONAR working, </strong>we are much clear about the concept on which SONAR technology works. But if we talk about <strong>principle of SONAR</strong> in simple words than:</p>
+<!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
+<div style="float:none;margin:10px 0 10px 0;text-align:center;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- blog link -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:90px"
+     data-ad-client="ca-pub-6579325798612802"
+     data-ad-slot="2174135773"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<ul>
+<li>The instruments generate an <strong>electric impulse</strong> which is converted into <strong>sound wave</strong>s with the help of transducer from the transmitter.</li>
+<li>These sound waves are then sent into the water, when these sound waves strikes the water surface it get rebounds to the transducer.</li>
+<li>The transducer again converts back the <strong>echo </strong>into the electrical signals.</li>
+<li>These electric signals are amplified the receiver and are then sent to the display screen.</li>
+<li>The display shows the time variations by means of flashing lights, Liquid Crystal Display (LCD) or Cathode Ray Tube (CRT or TV screen).</li>
+<li>With this calculated time elapsed in receiving the sound waves we can find the distance between the object and the transmitter as the <strong>speed of light</strong> in water remain constant i.e. 1440 meters per second.</li>
+</ul>
+<h3>Uses &amp; Application of SONAR</h3>
+<p><strong>Charting and surveying in shallow waters</strong></p>
+<p><strong>Pipeline inspections</strong><br />
+Pipeline Inspection are mainly used by Oil and Gas companies with the use of high frequency side scan sonar. SONAR in this is used to detect any rock dumps and damages. With the help of ROTV i.e <strong>stable FOCUS remotely operated towed vehicle</strong> <a href="https://www.google.co.in/search?q=sonar&amp;oq=sonar&amp;aqs=chrome.0.69i59j69i60j69i59l2j69i60l2.1176j0j7&amp;sourceid=chrome&amp;ie=UTF-8" target="_blank">SONAR</a> can be used at speeds upto 6 Knots. This high frequency information makes it easy to detect any changes made in topography.</p>
+<p><strong>Searching and Rescuing </strong></p>
+<p><img class="aligncenter size-medium wp-image-304" src="http://educationtimess.com/wp-content/uploads/2016/09/SoNAR-300x225.png" alt="sonar, sonar working, sonar principle, sonar application" width="300" height="225" srcset="http://educationtimess.com/wp-content/uploads/2016/09/SoNAR-300x225.png 300w, http://educationtimess.com/wp-content/uploads/2016/09/SoNAR-80x60.png 80w, http://educationtimess.com/wp-content/uploads/2016/09/SoNAR-265x198.png 265w, http://educationtimess.com/wp-content/uploads/2016/09/SoNAR.png 491w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>SONAR is also used for detecting the hidden objects like for example in Searching. Most of the time this technology is helpful in rescuing used mostly by Searching and Rescuing SAR teams. A  scanning sonar is deployed on a tripod and it makes a perfect and effective  combined tool.</p>
+<p><strong>For detecting explosive dangers underwater</strong></p>
+<p>Prior to laying pipes and cables under the water it is very important to identify the sea bed as it is increasingly exploited. Mostly the areas affected by the laying of mines and explosives. For example:<br />
+The Baltic Sea is reckoned to contain a higher concentration of munitions from the two world wars and subsequent naval exercises than any other.</p>
+<p>So it became too much important to detect explosive dangers under water.</p>
+<h4>Some Facts about SONAR (Sound Navigation and Ranging)</h4>
+<p>There are two types of SONAR technology: Passive SONAR and Active SONAR</p>
+<p><strong>Passive Sonar</strong> is used for listening the sound made by the vessels whereas <strong>Active SONAR</strong> is used to generate sound pulses and listening echoes.</p>
+<p>&nbsp;</p>
+<p>So this was all about <strong><em>SONAR Working, Principle, Uses &amp; Application</em>. </strong>We will discuss more about <a href="http://educationtimess.com/cro-working-principle-cathode-ray-oscilloscope/" target="_blank"><em><strong>CRO Working Principle | Cathode Ray Oscilloscope</strong></em></a> in our next session. If you have any further information then you can share us by commenting in the comment box below. Stay tuned to us at <a href="http://educationtimess.com/"><strong>EducationTimes</strong></a>.</p>
+
+<!-- Quick Adsense WordPress Plugin: http://quicksense.net/ -->
+<div style="float:none;margin:10px 0 10px 0;text-align:center;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- resp -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6579325798612802"
+     data-ad-slot="2086674978"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+<div style="font-size:0px;height:0px;line-height:0px;margin:0;padding:0;clear:both"></div><p class="no-break"><span class='st_sharethis_vcount' st_title='SONAR Working, Principle, Uses &#038; Application' st_url='http://educationtimess.com/sonar-working-principle-uses-application/'></span><span class='st_stumbleupon_vcount' st_title='SONAR Working, Principle, Uses &#038; Application' st_url='http://educationtimess.com/sonar-working-principle-uses-application/'></span><span class='st_facebook_vcount' st_title='SONAR Working, Principle, Uses &#038; Application' st_url='http://educationtimess.com/sonar-working-principle-uses-application/'></span><span st_title='SONAR Working, Principle, Uses &#038; Application' st_url='http://educationtimess.com/sonar-working-principle-uses-application/' class='st_google_bmarks_vcount'></span><span st_title='SONAR Working, Principle, Uses &#038; Application' st_url='http://educationtimess.com/sonar-working-principle-uses-application/' class='st_blogger_vcount'></span><span st_title='SONAR Working, Principle, Uses &#038; Application' st_url='http://educationtimess.com/sonar-working-principle-uses-application/' class='st_twitter_vcount'></span><span st_title='SONAR Working, Principle, Uses &#038; Application' st_url='http://educationtimess.com/sonar-working-principle-uses-application/' class='st_linkedin_vcount'></span><span st_title='SONAR Working, Principle, Uses &#038; Application' st_url='http://educationtimess.com/sonar-working-principle-uses-application/' class='st_email_vcount'></span><span st_title='SONAR Working, Principle, Uses &#038; Application' st_url='http://educationtimess.com/sonar-working-principle-uses-application/' class='st_digg_vcount'></span><span st_title='SONAR Working, Principle, Uses &#038; Application' st_url='http://educationtimess.com/sonar-working-principle-uses-application/' class='st_fblike_vcount'></span><span st_title='SONAR Working, Principle, Uses &#038; Application' st_url='http://educationtimess.com/sonar-working-principle-uses-application/' class='st_plusone_vcount'></span><span st_title='SONAR Working, Principle, Uses &#038; Application' st_url='http://educationtimess.com/sonar-working-principle-uses-application/' class='st_pinterest_vcount'></span><span st_title='SONAR Working, Principle, Uses &#038; Application' st_url='http://educationtimess.com/sonar-working-principle-uses-application/' class='st_delicious_vcount'></span><span st_title='SONAR Working, Principle, Uses &#038; Application' st_url='http://educationtimess.com/sonar-working-principle-uses-application/' class='st_tumblr_vcount'></span><span st_title='SONAR Working, Principle, Uses &#038; Application' st_url='http://educationtimess.com/sonar-working-principle-uses-application/' class='st_reddit_vcount'></span><span st_title='SONAR Working, Principle, Uses &#038; Application' st_url='http://educationtimess.com/sonar-working-principle-uses-application/' class='st_wordpress_vcount'></span></p>        </div>
+
+
+        <footer>
+                        
+            <div class="td-post-source-tags">
+                                <ul class="td-tags td-post-small-box clearfix"><li><span>TAGS</span></li><li><a href="http://educationtimess.com/tag/sonar/">sonar</a></li><li><a href="http://educationtimess.com/tag/sonar-application/">sonar application</a></li><li><a href="http://educationtimess.com/tag/sonar-principle/">sonar principle</a></li><li><a href="http://educationtimess.com/tag/sonar-working/">sonar working</a></li></ul>            </div>
+
+                        <div class="td-block-row td-post-next-prev"><div class="td-block-span6 td-post-prev-post"><div class="td-post-next-prev-content"><span>Previous article</span><a href="http://educationtimess.com/5-best-women-exercise-workouts-for-fit-girls-body/">5 best women exercise workouts for fit girls</a></div></div><div class="td-next-prev-separator"></div><div class="td-block-span6 td-post-next-post"><div class="td-post-next-prev-content"><span>Next article</span><a href="http://educationtimess.com/onions-are-good-for-health-fitness-benefits/">How Onions are good for Health &#038; Fitness</a></div></div></div>            <div class="td-author-name vcard author" style="display: none"><span class="fn"><a href="http://educationtimess.com/author/pawan/">education</a></span></div>	        <span style="display: none;" itemprop="author" itemscope itemtype="https://schema.org/Person"><meta itemprop="name" content="education"></span><meta itemprop="datePublished" content="2016-09-05T19:21:53+00:00"><meta itemprop="dateModified" content="2016-09-05T19:23:53+00:00"><meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="http://educationtimess.com/sonar-working-principle-uses-application/"/><span style="display: none;" itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><span style="display: none;" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="http://educationtimess.com/wp-content/uploads/2016/07/ETs.png"></span><meta itemprop="name" content="Science, Education, Health"></span><meta itemprop="headline " content="SONAR Working, Principle, Uses &amp; Application"><span style="display: none;" itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="http://educationtimess.com/wp-content/uploads/2016/09/SoNAR.png"><meta itemprop="width" content="491"><meta itemprop="height" content="369"></span>        </footer>
+
+    </article> <!-- /.post -->
+
+    <div class="td_block_wrap td_block_related_posts td_uid_2_58ad54946b8ff_rand td_with_ajax_pagination td-pb-border-top"  data-td-block-uid="td_uid_2_58ad54946b8ff" ><script>var block_td_uid_2_58ad54946b8ff = new tdBlock();
+block_td_uid_2_58ad54946b8ff.id = "td_uid_2_58ad54946b8ff";
+block_td_uid_2_58ad54946b8ff.atts = '{"limit":6,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"","category_ids":"","custom_title":"","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_custom_related","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_uid_2_58ad54946b8ff_rand","offset":"","css":"","live_filter":"cur_post_same_categories","live_filter_cur_post_id":299,"live_filter_cur_post_author":"1"}';
+block_td_uid_2_58ad54946b8ff.td_column_number = "3";
+block_td_uid_2_58ad54946b8ff.block_type = "td_block_related_posts";
+block_td_uid_2_58ad54946b8ff.post_count = "6";
+block_td_uid_2_58ad54946b8ff.found_posts = "12";
+block_td_uid_2_58ad54946b8ff.header_color = "";
+block_td_uid_2_58ad54946b8ff.ajax_pagination_infinite_stop = "";
+block_td_uid_2_58ad54946b8ff.max_num_pages = "2";
+tdBlocksArray.push(block_td_uid_2_58ad54946b8ff);
+</script><h4 class="td-related-title"><a id="td_uid_3_58ad54946f11e" class="td-related-left td-cur-simple-item" data-td_filter_value="" data-td_block_id="td_uid_2_58ad54946b8ff" href="#">RELATED ARTICLES</a><a id="td_uid_4_58ad54946f162" class="td-related-right" data-td_filter_value="td_related_more_from_author" data-td_block_id="td_uid_2_58ad54946b8ff" href="#">MORE FROM AUTHOR</a></h4><div id=td_uid_2_58ad54946b8ff class="td_block_inner">
+
+	<div class="td-related-row">
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://educationtimess.com/isro-launching-83-satellites-jan-2017/" rel="bookmark" title="ISRO launching 83 Satellites in Jan 2017 Single Rocket"><img width="218" height="150" class="entry-thumb" src="http://educationtimess.com/wp-content/uploads/2016/12/ISRO-launching-83-Satellites-218x150.jpg" alt="ISRO, ISRO launching 83 Satellites" title="ISRO launching 83 Satellites in Jan 2017 Single Rocket"/></a></div>                <a href="http://educationtimess.com/category/science/" class="td-post-category">Science</a>            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="http://educationtimess.com/isro-launching-83-satellites-jan-2017/" rel="bookmark" title="ISRO launching 83 Satellites in Jan 2017 Single Rocket">ISRO launching 83 Satellites in Jan 2017 Single Rocket</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 -->
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://educationtimess.com/useful-practical-applications-thermal-expansion-define-thermal-expansion/" rel="bookmark" title="10 Practical applications of Thermal Expansion | Example in everyday life"><img width="218" height="150" class="entry-thumb" src="http://educationtimess.com/wp-content/uploads/2016/08/thermal-expansion-concept-218x150.png" alt="thermal expansion, practical application" title="10 Practical applications of Thermal Expansion | Example in everyday life"/></a></div>                <a href="http://educationtimess.com/category/science/" class="td-post-category">Science</a>            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="http://educationtimess.com/useful-practical-applications-thermal-expansion-define-thermal-expansion/" rel="bookmark" title="10 Practical applications of Thermal Expansion | Example in everyday life">10 Practical applications of Thermal Expansion | Example in everyday life</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 -->
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://educationtimess.com/internet-of-things-examples-iot-applications/" rel="bookmark" title="Internet of Things Examples IOT Applications"><img width="218" height="150" class="entry-thumb" src="http://educationtimess.com/wp-content/uploads/2016/10/iot-218x150.jpg" alt="internet of things, iot, iot application, internet of things use" title="Internet of Things Examples IOT Applications"/></a></div>                <a href="http://educationtimess.com/category/science/" class="td-post-category">Science</a>            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="http://educationtimess.com/internet-of-things-examples-iot-applications/" rel="bookmark" title="Internet of Things Examples IOT Applications">Internet of Things Examples IOT Applications</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 --></div><!--./row-fluid-->
+
+	<div class="td-related-row">
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://educationtimess.com/cro-working-principle-cathode-ray-oscilloscope/" rel="bookmark" title="CRO Working Principle | Cathode Ray Oscilloscope"><img width="218" height="150" class="entry-thumb" src="http://educationtimess.com/wp-content/uploads/2016/08/CRO-Working-principle-218x150.png" alt="cro working, cathode ray oscilloscope, cro principle" title="CRO Working Principle | Cathode Ray Oscilloscope"/></a></div>                <a href="http://educationtimess.com/category/science/" class="td-post-category">Science</a>            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="http://educationtimess.com/cro-working-principle-cathode-ray-oscilloscope/" rel="bookmark" title="CRO Working Principle | Cathode Ray Oscilloscope">CRO Working Principle | Cathode Ray Oscilloscope</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 -->
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://educationtimess.com/concept-of-normal-shift-and-apparent-shift-in-ray-optics/" rel="bookmark" title="Concept of Normal Shift and Apparent Shift in Ray optics"><img width="218" height="150" class="entry-thumb" src="http://educationtimess.com/wp-content/uploads/2016/08/apparent-shift-1-218x150.png" alt="normal shift, apparent shift, ray optics, apparent-shift_concept" title="Concept of Normal Shift and Apparent Shift in Ray optics"/></a></div>                <a href="http://educationtimess.com/category/science/" class="td-post-category">Science</a>            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="http://educationtimess.com/concept-of-normal-shift-and-apparent-shift-in-ray-optics/" rel="bookmark" title="Concept of Normal Shift and Apparent Shift in Ray optics">Concept of Normal Shift and Apparent Shift in Ray optics</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 -->
+
+	<div class="td-related-span4">
+
+        <div class="td_module_related_posts td-animation-stack td_mod_related_posts">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://educationtimess.com/hyperloop-technology-step-by-step-guide-hype-speed/" rel="bookmark" title="Hyperloop Technology Step by Step Guide Elon Musk"><img width="218" height="150" class="entry-thumb" src="http://educationtimess.com/wp-content/uploads/2016/11/hyperloop-218x150.jpg" alt="hyperloop technology, hyperloop concept, hyperloop train, hyperloop Elon Musk, hyperloop competition" title="Hyperloop Technology Step by Step Guide Elon Musk"/></a></div>                <a href="http://educationtimess.com/category/science/" class="td-post-category">Science</a>            </div>
+            <div class="item-details">
+                <h3 class="entry-title td-module-title"><a href="http://educationtimess.com/hyperloop-technology-step-by-step-guide-hype-speed/" rel="bookmark" title="Hyperloop Technology Step by Step Guide Elon Musk">Hyperloop Technology Step by Step Guide Elon Musk</a></h3>            </div>
+        </div>
+        
+	</div> <!-- ./td-related-span4 --></div><!--./row-fluid--></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" id="prev-page-td_uid_2_58ad54946b8ff" data-td_block_id="td_uid_2_58ad54946b8ff"><i class="td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" id="next-page-td_uid_2_58ad54946b8ff" data-td_block_id="td_uid_2_58ad54946b8ff"><i class="td-icon-font td-icon-menu-right"></i></a></div></div> <!-- ./block -->
+
+	<div class="comments" id="comments">
+        	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">LEAVE A REPLY <small><a rel="nofollow" id="cancel-comment-reply-link" href="/sonar-working-principle-uses-application/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://educationtimess.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<div class="clearfix"></div>
+				<p class="comment-form-input-wrap">
+					<textarea placeholder="Comment:" id="comment" name="comment" cols="45" rows="8" aria-required="true"></textarea>
+		        </p><p class="comment-form-input-wrap">
+			            <span class="comment-req-wrap">
+			            	<input class="" id="author" name="author" placeholder="Name:" type="text" value="" size="30" /></span></p>
+<p class="comment-form-input-wrap">
+			            <span class="comment-req-wrap"><input class="" id="email" name="email" placeholder="Email:" type="text" value="" size="30" /></span></p>
+<p class="comment-form-input-wrap">
+			            <input class="" id="url" name="url" placeholder="Website:" type="text" value="" size="30" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='299' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="2788756841" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="106"/></p>			</form>
+			</div><!-- #respond -->
+	    </div> <!-- /.content -->
+                            </div>
+                        </div>
+                        <div class="td-pb-span4 td-main-sidebar" role="complementary">
+                            <div class="td-ss-main-sidebar">
+                                <div class="td_block_wrap td_block_1 td_block_widget td_uid_5_58ad5494751e2_rand td-pb-border-top"  data-td-block-uid="td_uid_5_58ad5494751e2" ><script>var block_td_uid_5_58ad5494751e2 = new tdBlock();
+block_td_uid_5_58ad5494751e2.id = "td_uid_5_58ad5494751e2";
+block_td_uid_5_58ad5494751e2.atts = '{"limit":"5","sort":"random_posts","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"80","category_ids":"","custom_title":"Fitness","custom_url":"http:\/\/educationtimess.com\/","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"","header_color":"#","header_text_color":"#","ajax_pagination_infinite_stop":"","td_column_number":1,"td_ajax_preloading":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_block_widget td_uid_5_58ad5494751e2_rand","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_5_58ad5494751e2.td_column_number = "1";
+block_td_uid_5_58ad5494751e2.block_type = "td_block_1";
+block_td_uid_5_58ad5494751e2.post_count = "5";
+block_td_uid_5_58ad5494751e2.found_posts = "6";
+block_td_uid_5_58ad5494751e2.header_color = "#";
+block_td_uid_5_58ad5494751e2.ajax_pagination_infinite_stop = "";
+block_td_uid_5_58ad5494751e2.max_num_pages = "2";
+tdBlocksArray.push(block_td_uid_5_58ad5494751e2);
+</script><h4 class="block-title"><a href="http://educationtimess.com/">Fitness</a></h4><div id=td_uid_5_58ad5494751e2 class="td_block_inner">
+
+	<div class="td-block-span12">
+
+        <div class="td_module_4 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://educationtimess.com/urine-color-depicts-health-issues-fitness/" rel="bookmark" title="What does your urine color depicts about health issues?"><img width="324" height="235" class="entry-thumb" src="http://educationtimess.com/wp-content/uploads/2016/08/urine-color-health-issues-fitness-324x235.jpg" alt="urine color, health issues, fitness" title="What does your urine color depicts about health issues?"/></a></div>                <a href="http://educationtimess.com/category/fitness/" class="td-post-category">Fitness</a>            </div>
+
+            <h3 class="entry-title td-module-title"><a href="http://educationtimess.com/urine-color-depicts-health-issues-fitness/" rel="bookmark" title="What does your urine color depicts about health issues?">What does your urine color depicts about health issues?</a></h3>
+            <div class="td-module-meta-info">
+                <span class="td-post-author-name"><a href="http://educationtimess.com/author/pawan/">education</a> <span>-</span> </span>                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-08-09T17:55:45+00:00" >August 9, 2016</time></span>                <div class="td-module-comments"><a href="http://educationtimess.com/urine-color-depicts-health-issues-fitness/#respond">0</a></div>            </div>
+
+            <div class="td-excerpt">
+                Urine Color: Each and every change in body depicts the changing health. It may leads to good or some bad health issues. Change may...            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="http://educationtimess.com/tips-to-improve-girl-health-fitness-balance-in-life/" rel="bookmark" title="6 Girl Health &#038; Fitness Tips to improve balance in life"><img width="100" height="70" class="entry-thumb" src="http://educationtimess.com/wp-content/uploads/2016/08/girl-health-100x70.jpg" alt="Girl health, girl fitness, improve girl health, sexy body" title="6 Girl Health &#038; Fitness Tips to improve balance in life"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="http://educationtimess.com/tips-to-improve-girl-health-fitness-balance-in-life/" rel="bookmark" title="6 Girl Health &#038; Fitness Tips to improve balance in life">6 Girl Health &#038; Fitness Tips to improve balance in life</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-11-30T11:17:34+00:00" >November 30, 2016</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="http://educationtimess.com/5-best-women-exercise-workouts-for-fit-girls-body/" rel="bookmark" title="5 best women exercise workouts for fit girls"><img width="100" height="70" class="entry-thumb" src="http://educationtimess.com/wp-content/uploads/2016/08/push-up-100x70.jpg" alt="women exercise, fit girl, workouts for women" title="5 best women exercise workouts for fit girls"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="http://educationtimess.com/5-best-women-exercise-workouts-for-fit-girls-body/" rel="bookmark" title="5 best women exercise workouts for fit girls">5 best women exercise workouts for fit girls</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-08-22T16:34:04+00:00" >August 22, 2016</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="http://educationtimess.com/benefits-of-alcohol-consumption-drinking-alcohol/" rel="bookmark" title="5 Benefits of Alcohol Consumption Drinking Alcohol"><img width="100" height="70" class="entry-thumb" src="http://educationtimess.com/wp-content/uploads/2016/09/benifiets_of_alcohol-100x70.jpg" alt="Benefits of Alcohol, alcohol consumption, Drinking Alcohol" title="5 Benefits of Alcohol Consumption Drinking Alcohol"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="http://educationtimess.com/benefits-of-alcohol-consumption-drinking-alcohol/" rel="bookmark" title="5 Benefits of Alcohol Consumption Drinking Alcohol">5 Benefits of Alcohol Consumption Drinking Alcohol</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-12-01T00:04:46+00:00" >December 1, 2016</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="http://educationtimess.com/onions-are-good-for-health-fitness-benefits/" rel="bookmark" title="How Onions are good for Health &#038; Fitness"><img width="100" height="70" class="entry-thumb" src="http://educationtimess.com/wp-content/uploads/2016/09/Onions-100x70.jpg" alt="Onions, health &amp; fitness, onion are good for health" title="How Onions are good for Health &#038; Fitness"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="http://educationtimess.com/onions-are-good-for-health-fitness-benefits/" rel="bookmark" title="How Onions are good for Health &#038; Fitness">How Onions are good for Health &#038; Fitness</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-09-11T13:30:12+00:00" >September 11, 2016</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 --></div></div> <!-- ./block --><div class="td_block_wrap td_block_2 td_block_widget td_uid_6_58ad54947dced_rand td-pb-border-top"  data-td-block-uid="td_uid_6_58ad54947dced" ><script>var block_td_uid_6_58ad54947dced = new tdBlock();
+block_td_uid_6_58ad54947dced.id = "td_uid_6_58ad54947dced";
+block_td_uid_6_58ad54947dced.atts = '{"limit":"5","sort":"random_posts","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"63","category_ids":"","custom_title":"How to","custom_url":"http:\/\/educationtimess.com\/","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"","header_color":"#","header_text_color":"#","ajax_pagination_infinite_stop":"","td_column_number":1,"td_ajax_preloading":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_block_widget td_uid_6_58ad54947dced_rand","offset":"","css":"","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":""}';
+block_td_uid_6_58ad54947dced.td_column_number = "1";
+block_td_uid_6_58ad54947dced.block_type = "td_block_2";
+block_td_uid_6_58ad54947dced.post_count = "5";
+block_td_uid_6_58ad54947dced.found_posts = "7";
+block_td_uid_6_58ad54947dced.header_color = "#";
+block_td_uid_6_58ad54947dced.ajax_pagination_infinite_stop = "";
+block_td_uid_6_58ad54947dced.max_num_pages = "2";
+tdBlocksArray.push(block_td_uid_6_58ad54947dced);
+</script><h4 class="block-title"><a href="http://educationtimess.com/">How to</a></h4><div id=td_uid_6_58ad54947dced class="td_block_inner">
+
+	<div class="td-block-span12">
+
+        <div class="td_module_2 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="http://educationtimess.com/how-to-prepare-for-placements-as-fresher-in-college/" rel="bookmark" title="How to prepare for placements as fresher in college"><img width="324" height="160" class="entry-thumb" src="http://educationtimess.com/wp-content/uploads/2016/08/unnamed-324x160.png" alt="prepare for placement, fresher" title="How to prepare for placements as fresher in college"/></a></div>                <a href="http://educationtimess.com/category/how-to/" class="td-post-category">How to</a>            </div>
+            <h3 class="entry-title td-module-title"><a href="http://educationtimess.com/how-to-prepare-for-placements-as-fresher-in-college/" rel="bookmark" title="How to prepare for placements as fresher in college">How to prepare for placements as fresher in college</a></h3>
+
+            <div class="td-module-meta-info">
+                <span class="td-post-author-name"><a href="http://educationtimess.com/author/pawan/">education</a> <span>-</span> </span>                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-08-10T08:00:09+00:00" >August 10, 2016</time></span>                <div class="td-module-comments"><a href="http://educationtimess.com/how-to-prepare-for-placements-as-fresher-in-college/#comments">2</a></div>            </div>
+
+
+            <div class="td-excerpt">
+                Prepare for placements as fresher in college: So it&#039;s every 22-23 age person dream to get placed in one of the dream company. Students...            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="http://educationtimess.com/how-to-solve-shannon-fano-coding-example-easy-trick/" rel="bookmark" title="Easy way to solve Shannon Fano Coding example?"><img width="100" height="70" class="entry-thumb" src="http://educationtimess.com/wp-content/uploads/2016/08/images-100x70.png" alt="Easy way to solve Shannon Fano Coding example?" title="Easy way to solve Shannon Fano Coding example?"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="http://educationtimess.com/how-to-solve-shannon-fano-coding-example-easy-trick/" rel="bookmark" title="Easy way to solve Shannon Fano Coding example?">Easy way to solve Shannon Fano Coding example?</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-08-04T18:55:35+00:00" >August 4, 2016</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="http://educationtimess.com/prepare-placement-online-free-freshers/" rel="bookmark" title="Prepare for placement online free for freshers"><img width="100" height="70" class="entry-thumb" src="http://educationtimess.com/wp-content/uploads/2016/08/prepare-for-placement-fresher-100x70.png" alt="prepare for placement, fresher" title="Prepare for placement online free for freshers"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="http://educationtimess.com/prepare-placement-online-free-freshers/" rel="bookmark" title="Prepare for placement online free for freshers">Prepare for placement online free for freshers</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-08-13T20:44:47+00:00" >August 13, 2016</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="http://educationtimess.com/how-to-get-ready-for-the-first-day-of-new-job/" rel="bookmark" title="Tips to get ready for the first day of new job"><img width="100" height="70" class="entry-thumb" src="http://educationtimess.com/wp-content/uploads/2016/08/C360_2016-08-09-13-32-45-018-100x70.jpg" alt="get ready for the first day of new job" title="Tips to get ready for the first day of new job"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="http://educationtimess.com/how-to-get-ready-for-the-first-day-of-new-job/" rel="bookmark" title="Tips to get ready for the first day of new job">Tips to get ready for the first day of new job</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-08-09T08:19:09+00:00" >August 9, 2016</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="http://educationtimess.com/solve-arithmetic-coding-example-binary-arithmetic-coding/" rel="bookmark" title="How to solve Arithmetic Coding example? Binary Arithmetic Coding"><img width="100" height="70" class="entry-thumb" src="http://educationtimess.com/wp-content/uploads/2016/08/Binary-Arithmetic-Coding-Arithmetic-Coding-Arithmetic-Coding-example-solve-Arithmetic-Coding-100x70.jpg" alt="Binary Arithmetic Coding, Arithmetic Coding, Arithmetic Coding example, solve Arithmetic Coding" title="How to solve Arithmetic Coding example? Binary Arithmetic Coding"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="http://educationtimess.com/solve-arithmetic-coding-example-binary-arithmetic-coding/" rel="bookmark" title="How to solve Arithmetic Coding example? Binary Arithmetic Coding">How to solve Arithmetic Coding example? Binary Arithmetic Coding</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-08-12T20:27:32+00:00" >August 12, 2016</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 --></div></div> <!-- ./block --><aside class="widget widget_text">			<div class="textwidget">https://www.tsection.com<br>
+<a target="_blank" href="http://www.copyrighted.com/copyrights/view/z8ys-349n-ozdl-fnxa"><img border="0" alt="Copyrighted.com Registered &amp; Protected 
+Z8YS-349N-OZDL-FNXA" title="Copyrighted.com Registered &amp; Protected 
+Z8YS-349N-OZDL-FNXA" width="150" height="40" src="http://static.copyrighted.com/images/seal.gif" /></a></div>
+		</aside>                            </div>
+                        </div>
+                            </div> <!-- /.td-pb-row -->
+    </div> <!-- /.td-container -->
+</div> <!-- /.td-main-content-wrap -->
+
+
+<!-- Instagram -->
+
+
+
+<!-- Footer -->
+
+
+<!-- Sub Footer -->
+    <div class="td-sub-footer-container">
+        <div class="td-container">
+            <div class="td-pb-row">
+                <div class="td-pb-span7 td-sub-footer-menu">
+                                        </div>
+
+                <div class="td-pb-span5 td-sub-footer-copy">
+                    &copy; Copyright @ EducationTimess.com                </div>
+            </div>
+        </div>
+    </div>
+</div><!--close td-outer-wrap-->
+
+                <div class="td-more-articles-box">
+                    <i class="td-icon-close td-close-more-articles-box"></i>
+                    <span class="td-more-articles-box-title">MORE STORIES</span>
+                    <div class="td-content-more-articles-box">
+
+                    
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="http://educationtimess.com/isro-launching-83-satellites-jan-2017/" rel="bookmark" title="ISRO launching 83 Satellites in Jan 2017 Single Rocket"><img width="100" height="70" class="entry-thumb" src="http://educationtimess.com/wp-content/uploads/2016/12/ISRO-launching-83-Satellites-100x70.jpg" alt="ISRO, ISRO launching 83 Satellites" title="ISRO launching 83 Satellites in Jan 2017 Single Rocket"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="http://educationtimess.com/isro-launching-83-satellites-jan-2017/" rel="bookmark" title="ISRO launching 83 Satellites in Jan 2017 Single Rocket">ISRO launching 83 Satellites in Jan 2017 Single Rocket</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-12-08T00:36:27+00:00" >December 8, 2016</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="http://educationtimess.com/useful-practical-applications-thermal-expansion-define-thermal-expansion/" rel="bookmark" title="10 Practical applications of Thermal Expansion | Example in everyday life"><img width="100" height="70" class="entry-thumb" src="http://educationtimess.com/wp-content/uploads/2016/08/thermal-expansion-concept-100x70.png" alt="thermal expansion, practical application" title="10 Practical applications of Thermal Expansion | Example in everyday life"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="http://educationtimess.com/useful-practical-applications-thermal-expansion-define-thermal-expansion/" rel="bookmark" title="10 Practical applications of Thermal Expansion | Example in everyday life">10 Practical applications of Thermal Expansion | Example in everyday life</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-12-01T23:50:47+00:00" >December 1, 2016</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="http://educationtimess.com/benefits-of-alcohol-consumption-drinking-alcohol/" rel="bookmark" title="5 Benefits of Alcohol Consumption Drinking Alcohol"><img width="100" height="70" class="entry-thumb" src="http://educationtimess.com/wp-content/uploads/2016/09/benifiets_of_alcohol-100x70.jpg" alt="Benefits of Alcohol, alcohol consumption, Drinking Alcohol" title="5 Benefits of Alcohol Consumption Drinking Alcohol"/></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="http://educationtimess.com/benefits-of-alcohol-consumption-drinking-alcohol/" rel="bookmark" title="5 Benefits of Alcohol Consumption Drinking Alcohol">5 Benefits of Alcohol Consumption Drinking Alcohol</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-12-01T00:04:46+00:00" >December 1, 2016</time></span>                            </div>
+        </div>
+
+        </div>
+
+                            </div>
+                </div>
+
+    <!--
+
+        Theme: Newspaper by tagDiv 2016
+        Version: 7.2 (rara)
+        Deploy mode: deploy
+        
+        uid: 58ad549489219
+    -->
+
+    <script type='text/javascript' src='http://educationtimess.com/wp-content/plugins/akismet/_inc/form.js?ver=3.2'></script>
+<script type='text/javascript' src='http://educationtimess.com/wp-content/themes/Newspaper%20v7.2/Newspaper/js/tagdiv_theme.js?ver=7.2'></script>
+<script type='text/javascript' src='http://educationtimess.com/wp-includes/js/comment-reply.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://educationtimess.com/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
+
+<!-- JS generated by theme -->
+
+<script>
+    
+
+	
+
+		(function(){
+			var html_jquery_obj = jQuery('html');
+
+			if (html_jquery_obj.length && (html_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {
+
+				var path = 'http://educationtimess.com/wp-content/themes/Newspaper%20v7.2/Newspaper/style.css';
+
+				jQuery.get(path, function(data) {
+
+					var str_split_separator = '#td_css_split_separator';
+					var arr_splits = data.split(str_split_separator);
+					var arr_length = arr_splits.length;
+
+					if (arr_length > 1) {
+
+						var dir_path = 'http://educationtimess.com/wp-content/themes/Newspaper%20v7.2/Newspaper';
+						var splited_css = '';
+
+						for (var i = 0; i < arr_length; i++) {
+							if (i > 0) {
+								arr_splits[i] = str_split_separator + ' ' + arr_splits[i];
+							}
+							//jQuery('head').append('<style>' + arr_splits[i] + '</style>');
+
+							var formated_str = arr_splits[i].replace(/\surl\(\'(?!data\:)/gi, function regex_function(str) {
+								return ' url(\'' + dir_path + '/' + str.replace(/url\(\'/gi, '').replace(/^\s+|\s+$/gm,'');
+							});
+
+							splited_css += "<style>" + formated_str + "</style>";
+						}
+
+						var td_theme_css = jQuery('link#td-theme-css');
+
+						if (td_theme_css.length) {
+							td_theme_css.after(splited_css);
+						}
+					}
+				});
+			}
+		})();
+
+	
+	
+</script>
+
+
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: educationtimess.com @ 2017-02-22 14:36:28 by W3 Total Cache -->�0�ڃ�      X�T�X�T�=w\�       E    :http://educationtimess.com/sonar-working-principle-uses-application/ necko:classified 1 request-method GET response-head HTTP/1.0 200 OK
+Date: Wed, 22 Feb 2017 09:06:27 GMT
+Server: Apache
+X-Powered-By: PHP/5.5.29
+X-Pingback: http://educationtimess.com/xmlrpc.php
+Link: <http://educationtimess.com/wp-json/>; rel="https://api.w.org/", <http://educationtimess.com/?p=299>; rel=shortlink
+Content-Type: text/html; charset=UTF-8
+ charset UTF-8 uncompressed-len 0 predictor::resource-count 86 predictor::http://educationtimess.com/wp-content/plugins/share-this/css/style.css?ver=4.7.2 1,1,1487754385,0 predictor::http://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C400%2C600%2C700&ver=4.7.2 1,1,1487754385,0 predictor::http://fonts.googleapis.com/css?family=Roboto%3A500%2C400italic%2C700%2C900%2C500italic%2C400%2C300&ver=4.7.2 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.12 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/themes/Newspaper%20v7.2/Newspaper/style.css?ver=7.2 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/themes/Newspaper%20v7.2/Newspaper/includes/demos/magazine/demo_style.css?ver=7.2 1,1,1487754385,0 predictor::http://educationtimess.com/wp-includes/js/jquery/jquery.js?ver=1.12.4 1,1,1487754385,0 predictor::http://educationtimess.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 1,1,1487754385,0 predictor::http://clientcdn.pushengage.com/core/3108.js?ver=4.7.2 1,1,1487754385,0 predictor::http://w.sharethis.com/button/buttons.js?publisher=60dcf0a9-28bb-48fc-be7c-97056e166df2&product=sharethis-wordpress 1,1,1487754385,0 predictor::http://educationtimess.com/wp-includes/js/wp-emoji-release.min.js?ver=4.7.2 1,1,1487754385,0 predictor::http://2.gravatar.com/avatar/?s=80&d=mm&r=g 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/uploads/2016/07/ETs.png 1,1,1487754385,0 predictor::http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/uploads/2016/09/sonar-463x420.gif 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/uploads/2016/09/SONAR-Working-696x373.png 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/uploads/2016/09/SoNAR-300x225.png 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/uploads/2016/12/ISRO-launching-83-Satellites-218x150.jpg 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/uploads/2016/08/thermal-expansion-concept-218x150.png 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/uploads/2016/10/iot-218x150.jpg 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/uploads/2016/08/CRO-Working-principle-218x150.png 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/uploads/2016/08/apparent-shift-1-218x150.png 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/uploads/2016/11/hyperloop-218x150.jpg 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/uploads/2016/08/urine-color-health-issues-fitness-324x235.jpg 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/uploads/2016/08/girl-health-100x70.jpg 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/uploads/2016/08/push-up-100x70.jpg 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/uploads/2016/09/benifiets_of_alcohol-100x70.jpg 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/uploads/2016/09/Onions-100x70.jpg 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/uploads/2016/08/unnamed-324x160.png 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/uploads/2016/08/images-100x70.png 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/uploads/2016/08/prepare-for-placement-fresher-100x70.png 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/uploads/2016/08/C360_2016-08-09-13-32-45-018-100x70.jpg 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/uploads/2016/08/Binary-Arithmetic-Coding-Arithmetic-Coding-Arithmetic-Coding-example-solve-Arithmetic-Coding-100x70.jpg 1,1,1487754385,0 predictor::http://static.copyrighted.com/images/seal.gif 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/uploads/2016/12/ISRO-launching-83-Satellites-100x70.jpg 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/uploads/2016/08/thermal-expansion-concept-100x70.png 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/plugins/akismet/_inc/form.js?ver=3.2 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/themes/Newspaper%20v7.2/Newspaper/js/tagdiv_theme.js?ver=7.2 1,1,1487754385,0 predictor::http://educationtimess.com/wp-includes/js/comment-reply.min.js?ver=4.7.2 1,1,1487754385,0 predictor::http://educationtimess.com/wp-includes/js/wp-embed.min.js?ver=4.7.2 1,1,1487754385,0 predictor::http://w.sharethis.com/button/async-buttons.js 1,1,1487754385,0 predictor::https://www.google-analytics.com/analytics.js 1,1,1487754385,0 predictor::http://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2 1,1,1487754385,0 predictor::http://educationtimess.com/wp-content/themes/Newspaper%20v7.2/Newspaper/images/icons/newspaper.woff?8 1,1,1487754385,0 predictor::http://fonts.gstatic.com/s/opensans/v13/xjAJXh38I15wypJXxuGMBo4P5ICox8Kq3LLUNMylGO4.woff2 1,1,1487754385,0 predictor::http://fonts.gstatic.com/s/roboto/v15/CWB0XYA8bzo0kSThX0UTuA.woff2 1,1,1487754385,0 predictor::http://fonts.gstatic.com/s/opensans/v13/k3k702ZOKiLJc3WVjuplzOgdm0LZdjqr5-oayXSOefg.woff2 1,1,1487754385,0 predictor::http://fonts.gstatic.com/s/opensans/v13/MTP_ySUJH_bn48VBG8sNSugdm0LZdjqr5-oayXSOefg.woff2 1,1,1487754385,0 predictor::http://fonts.gstatic.com/s/roboto/v15/d-6IYplOFocCacKzxwXSOFtXRa8TVwTICgirnJhmVJw.woff2 1,1,1487754385,0 predictor::http://fonts.gstatic.com/s/roboto/v15/RxZJdnzeo3R5zSexge8UUVtXRa8TVwTICgirnJhmVJw.woff2 1,1,1487754385,0 predictor::http://fonts.gstatic.com/s/roboto/v15/vPcynSL0qHq_6dX7lKVByfesZW2xOQ-xsNqO47m55DA.woff2 1,1,1487754385,0 predictor::https://pagead2.googlesyndication.com/pub-config/r20160913/ca-pub-6579325798612802.js 1,1,1487754385,0 predictor::http://pagead2.googlesyndication.com/pagead/js/r20170215/r20170110/show_ads_impl.js 1,1,1487754385,0 predictor::http://w.sharethis.com/button/css/buttons.e80452d5e7cc382dad89d10f50bde247.css 1,1,1487754385,0 predictor::http://count-server.sharethis.com/increment_clicks?url=http%3A%2F%2Feducationtimess.com%2Fsonar-working-principle-uses-application%2F&refDomain=www.google.co.in&refQuery= 1,1,1487754385,0 predictor::http://count-server.sharethis.com/v2.0/get_counts?url=http%3A%2F%2Feducationtimess.com%2Fsonar-working-principle-uses-application%2F&cb=stButtons.processCB&wd=true 1,1,1487754385,0 predictor::http://connect.facebook.net/en_US/sdk.js 1,1,1487754385,0 predictor::https://apis.google.com/js/plusone.js 1,1,1487754385,0 predictor::http://w.sharethis.com/images/2017/sharethis_counter.png 1,1,1487754385,0 predictor::http://w.sharethis.com/images/2017/facebook_counter.png 1,1,1487754385,0 predictor::http://w.sharethis.com/images/2017/twitter_counter.png 1,1,1487754385,0 predictor::http://w.sharethis.com/images/2017/linkedin_counter.png 1,1,1487754385,0 predictor::http://w.sharethis.com/images/2017/email_counter.png 1,1,1487754385,0 predictor::http://w.sharethis.com/images/2017/pinterest_counter.png 1,1,1487754385,0 predictor::https://www.google-analytics.com/r/collect?v=1&_v=j47&a=1196304791&t=pageview&_s=1&dl=http%3A%2F%2Feducationtimess.com%2Fsonar-working-principle-uses-application%2F&dr=https%3A%2F%2Fwww.google.co.in&ul=en-us&de=UTF-8&dt=SONAR%20Working%2C%20Principle%2C%20Uses%20%26%20Application%20-%20Science%2C%20Education%2C%20Health&sd=24-bit&sr=1366x768&vp=1156x598&je=0&_u=AEAAAMABI~&jid=2099233025&cid=276375716.1487754394&tid=UA-71063758-1&_r=1&z=1513103252 1,1,1487754385,0 predictor::https://www.google-analytics.com/collect?v=1&_v=j47&a=1196304791&t=pageview&_s=2&dl=http%3A%2F%2Feducationtimess.com%2Fsonar-working-principle-uses-application%2F&dr=https%3A%2F%2Fwww.google.co.in&ul=en-us&de=UTF-8&dt=SONAR%20Working%2C%20Principle%2C%20Uses%20%26%20Application%20-%20Science%2C%20Education%2C%20Health&sd=24-bit&sr=1366x768&vp=1156x598&je=0&_u=AEAAAMABI~&jid=&cid=276375716.1487754394&tid=UA-71063758-1&z=902603581 1,1,1487754385,0 predictor::http://w.sharethis.com/images/2017/wordpress_16.png 1,1,1487754385,0 predictor::http://w.sharethis.com/images/2017/reddit_16.png 1,1,1487754385,0 predictor::http://w.sharethis.com/images/2017/tumblr_16.png 1,1,1487754385,0 predictor::http://w.sharethis.com/images/2017/delicious_16.png 1,1,1487754385,0 predictor::http://w.sharethis.com/images/2017/digg_16.png 1,1,1487754385,0 predictor::http://w.sharethis.com/images/2017/blogger_16.png 1,1,1487754385,0 predictor::http://w.sharethis.com/images/2017/google_bmarks_16.png 1,1,1487754385,0 predictor::http://w.sharethis.com/images/2017/stumbleupon_16.png 1,1,1487754385,0 predictor::https://pagead2.googlesyndication.com/pagead/osd.js 1,1,1487754385,0 predictor::http://t.sharethis.com/1/d/t.dhj?rnd=1487754394245&cid=c010&dmn=educationtimess.com 1,1,1487754385,0 predictor::http://b.scorecardresearch.com/b?c1=7&c2=8097938&rn=809273547&c7=http%3A%2F%2Feducationtimess.com%2Fsonar-working-principle-uses-application%2F&c3=8097938&c8=ShareThis%20Segmenter&cv=2.2&cs=js 1,1,1487754385,0 predictor::https://www.facebook.com/impression.php/f1526ab7112348c/?lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D 1,1,1487754385,0 predictor::https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en.ubXsUQhiuRw.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCNkYfMYLjSk57C7kQIPG5ab-Y4fVg/cb=gapi.loaded_0 1,1,1487754385,0 predictor::https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en.ubXsUQhiuRw.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCNkYfMYLjSk57C7kQIPG5ab-Y4fVg/cb=gapi.loaded_1 1,1,1487754385,0 predictor::http://w.sharethis.com/share4x/images/bubble_arrow_below.png 1,1,1487754385,0 predictor::https://educationtimess.pushengage.com/dialog.css 1,1,1487754385,0 predictor::https://fonts.googleapis.com/css?family=Open+Sans:400,600 1,1,1487754385,0 predictor::https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css 1,1,1487754385,0 predictor::https://fonts.gstatic.com/s/opensans/v13/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2 1,1,1487754385,0 predictor::https://fonts.gstatic.com/s/opensans/v13/MTP_ySUJH_bn48VBG8sNSugdm0LZdjqr5-oayXSOefg.woff2 1,1,1487754385,0  �t

@@ -1,0 +1,253 @@
+
+(gnome-terminal:3195): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
+
+(process:3317): GLib-CRITICAL **: g_path_get_basename: assertion 'file_name != NULL' failed
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(gnome-terminal:3430): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
+gnome-session[1782]: WARNING: Application 'compiz.desktop' killed by signal 11
+gnome-session[1782]: WARNING: App 'compiz.desktop' respawning too quickly
+gnome-session[1782]: CRITICAL: We failed, but the fail whale is dead. Sorry....
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-dceLia
+SSH_AUTH_SOCK=/run/user/1000/keyring-dceLia/ssh
+GPG_AGENT_INFO=/run/user/1000/keyring-dceLia/gpg:0:1
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-dceLia
+SSH_AUTH_SOCK=/run/user/1000/keyring-dceLia/ssh
+GPG_AGENT_INFO=/run/user/1000/keyring-dceLia/gpg:0:1
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-dceLia
+SSH_AUTH_SOCK=/run/user/1000/keyring-dceLia/ssh
+GPG_AGENT_INFO=/run/user/1000/keyring-dceLia/gpg:0:1
+GNOME_KEYRING_CONTROL=/run/user/1000/keyring-dceLia
+SSH_AUTH_SOCK=/run/user/1000/keyring-dceLia/ssh
+GPG_AGENT_INFO=/run/user/1000/keyring-dceLia/gpg:0:1
+compiz (core) - Info: Loading plugin: core
+compiz (core) - Info: Starting plugin: core
+compiz (core) - Info: Loading plugin: ccp
+compiz (core) - Info: Starting plugin: ccp
+compizconfig - Info: Backend     : gsettings
+compizconfig - Info: Integration : true
+compizconfig - Info: Profile     : unity
+
+(process:4054): indicator-application-service-WARNING **: Unable to get watcher name 'org.kde.StatusNotifierWatcher'
+
+(process:4054): indicator-application-service-WARNING **: Name Lost
+compiz (core) - Info: Loading plugin: composite
+
+** (process:4067): CRITICAL **: bluez.vala:104: GDBus.Error:org.bluez.Error.NoSuchAdapter: No such adapter
+compiz (core) - Info: Starting plugin: composite
+compiz (core) - Info: Loading plugin: opengl
+compiz (core) - Info: Unity is not supported by your hardware. Enabling software rendering instead (slow).
+compiz (core) - Info: Unity is not supported by your hardware. Enabling software rendering instead (slow).
+compiz (core) - Info: Starting plugin: opengl
+compiz (core) - Info: Loading plugin: vpswitch
+compiz (core) - Info: Starting plugin: vpswitch
+compiz (core) - Info: Loading plugin: commands
+compiz (core) - Info: Starting plugin: commands
+compiz (core) - Info: Loading plugin: imgpng
+compiz (core) - Info: Starting plugin: imgpng
+compiz (core) - Info: Loading plugin: resize
+compiz (core) - Info: Starting plugin: resize
+compiz (core) - Info: Loading plugin: mousepoll
+compiz (core) - Info: Starting plugin: mousepoll
+compiz (core) - Info: Loading plugin: copytex
+compiz (core) - Info: Starting plugin: copytex
+compiz (core) - Info: Loading plugin: compiztoolbox
+compiz (core) - Info: Starting plugin: compiztoolbox
+compiz (core) - Info: Loading plugin: place
+compiz (core) - Info: Starting plugin: place
+compiz (core) - Info: Loading plugin: move
+compiz (core) - Info: Starting plugin: move
+compiz (core) - Info: Loading plugin: regex
+compiz (core) - Info: Starting plugin: regex
+compiz (core) - Info: Loading plugin: animation
+compiz (core) - Info: Starting plugin: animation
+compiz (core) - Info: Loading plugin: workarounds
+compiz (core) - Info: Starting plugin: workarounds
+compiz (core) - Info: Loading plugin: snap
+compiz (core) - Info: Starting plugin: snap
+compiz (core) - Info: Loading plugin: expo
+compiz (core) - Info: Starting plugin: expo
+compiz (core) - Info: Loading plugin: wall
+compiz (core) - Info: Starting plugin: wall
+compiz (core) - Info: Loading plugin: session
+compiz (core) - Info: Starting plugin: session
+I/O warning : failed to load external entity "/home/srtaksande/.compiz/session/101d4cb2215289a185148775459966519400000038260001"
+compiz (core) - Info: Loading plugin: grid
+compiz (core) - Info: Starting plugin: grid
+compiz (core) - Info: Loading plugin: unitymtgrabhandles
+compiz (core) - Info: Starting plugin: unitymtgrabhandles
+compiz (core) - Info: Loading plugin: ezoom
+compiz (core) - Info: Starting plugin: ezoom
+compiz (core) - Info: Loading plugin: fade
+compiz (core) - Info: Starting plugin: fade
+compiz (core) - Info: Loading plugin: scale
+compiz (core) - Info: Starting plugin: scale
+compiz (core) - Info: Loading plugin: unityshell
+compiz (core) - Info: Starting plugin: unityshell
+WARN  2017-02-22 14:40:02 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'org.gnome.Shell' yet as we don't have a connection, waiting for it...
+ERROR 2017-02-22 14:40:02 unity.debug.interface DebugDBusInterface.cpp:216 Unable to load entry point in libxpathselect: libxpathselect.so.1.4: cannot open shared object file: No such file or directory
+WARN  2017-02-22 14:40:02 xim.controller XIMController.cpp:103 IBus natively supported.
+WARN  2017-02-22 14:40:02 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'com.canonical.Unity.Launcher' yet as we don't have a connection, waiting for it...
+WARN  2017-02-22 14:40:02 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'com.canonical.Unity.Dash' yet as we don't have a connection, waiting for it...
+WARN  2017-02-22 14:40:02 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'org.gnome.SessionManager.EndSessionDialog' yet as we don't have a connection, waiting for it...
+WARN  2017-02-22 14:40:02 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'com.canonical.Unity.Session' yet as we don't have a connection, waiting for it...
+WARN  2017-02-22 14:40:02 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'org.gnome.ScreenSaver' yet as we don't have a connection, waiting for it...
+ERROR 2017-02-22 14:40:03 unity.glib.dbus.server GLibDBusServer.cpp:524 DBus name lost 'org.gnome.Shell'
+ERROR 2017-02-22 14:40:03 unity.glib.dbus.server GLibDBusServer.cpp:524 DBus name lost 'com.canonical.Unity'
+
+(nm-applet:4061): nm-applet-WARNING **: Could not find ShellVersion property on org.gnome.Shell after 5 tries
+
+(zeitgeist-datahub:4249): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(zeitgeist-datahub:4249): GLib-GObject-CRITICAL **: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+WARN  2017-02-22 14:41:10 unity.iconloader IconLoader.cpp:755 Unable to load icon file:/// at size -1x22: Can't open directory
+
+(gnome-terminal:4378): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
+
+(gnome-terminal:4458): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+ERROR 2017-02-22 14:51:36 unity.settings UnitySettings.cpp:244 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2017-02-22 15:02:40 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:40 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:40 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:40 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:40 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:40 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:40 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:40 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:40 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:40 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:40 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:40 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:40 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:40 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:40 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2017-02-22 15:02:40 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2017-02-22 15:02:40 unityding->source != null <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2017-02-22 15:02:41 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:41 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:41 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:41 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:41 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:41 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:41 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:41 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:41 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:41 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:41 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:41 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:41 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 15:02:41 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-02-22 16:20:21 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2017-02-22 16:20:21 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2017-02-22 16:20:21 unityding->source != null <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(process:6389): GLib-CRITICAL **: g_path_get_basename: assertion 'file_name != NULL' failed
+
+(gnome-terminal:6534): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
+
+(gedit:6641): Gtk-WARNING **: GtkScrolledWindow 0x9cd3398 is mapped but visible child GtkScrollbar 0x9cd57b8 is not mapped
+
+(gedit:6641): Gtk-WARNING **: GtkScrolledWindow 0x9cd3398 is mapped but visible child GtkScrollbar 0x9cd5940 is not mapped
+
+(gedit:6641): Gtk-WARNING **: GtkScrolledWindow 0x9cd3398 is mapped but visible child GtkScrollbar 0x9cd57b8 is not mapped
+
+(gedit:6641): Gtk-WARNING **: GtkScrolledWindow 0x9cd3398 is mapped but visible child GtkScrollbar 0x9cd5940 is not mapped
+
+(gedit:6641): GLib-GObject-CRITICAL **: g_value_set_object: assertion 'G_VALUE_HOLDS_OBJECT (value)' failed
+ERROR 2017-02-22 17:02:57 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2017-02-22 17:02:57 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2017-02-22 17:02:57 unityding->source != null <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(gedit:7011): Gtk-WARNING **: GtkScrolledWindow 0x83de398 is mapped but visible child GtkScrollbar 0x83e07b8 is not mapped
+
+(gedit:7011): Gtk-WARNING **: GtkScrolledWindow 0x83de398 is mapped but visible child GtkScrollbar 0x83e0940 is not mapped
+
+(gedit:7011): Gtk-WARNING **: GtkScrolledWindow 0x83de398 is mapped but visible child GtkScrollbar 0x83e07b8 is not mapped
+
+(gedit:7011): Gtk-WARNING **: GtkScrolledWindow 0x83de398 is mapped but visible child GtkScrollbar 0x83e0940 is not mapped
+
+(gedit:7067): Gtk-WARNING **: GtkScrolledWindow 0xa0c6398 is mapped but visible child GtkScrollbar 0xa0c87b8 is not mapped
+
+(gedit:7067): Gtk-WARNING **: GtkScrolledWindow 0xa0c6398 is mapped but visible child GtkScrollbar 0xa0c8940 is not mapped
+
+(gedit:7067): Gtk-WARNING **: GtkScrolledWindow 0xa0c6398 is mapped but visible child GtkScrollbar 0xa0c87b8 is not mapped
+
+(gedit:7067): Gtk-WARNING **: GtkScrolledWindow 0xa0c6398 is mapped but visible child GtkScrollbar 0xa0c8940 is not mapped
+
+(gnome-terminal:7335): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+
+(gedit:7540): Gtk-WARNING **: GtkScrolledWindow 0x83da398 is mapped but visible child GtkScrollbar 0x83dc7b8 is not mapped
+
+(gedit:7540): Gtk-WARNING **: GtkScrolledWindow 0x83da398 is mapped but visible child GtkScrollbar 0x83dc940 is not mapped
+
+(gedit:7540): Gtk-WARNING **: GtkScrolledWindow 0x83da398 is mapped but visible child GtkScrollbar 0x83dc7b8 is not mapped
+
+(gedit:7540): Gtk-WARNING **: GtkScrolledWindow 0x83da398 is mapped but visible child GtkScrollbar 0x83dc940 is not mapped
+
+(gedit:7596): Gtk-WARNING **: GtkScrolledWindow 0x9a8f398 is mapped but visible child GtkScrollbar 0x9a917b8 is not mapped
+
+(gedit:7596): Gtk-WARNING **: GtkScrolledWindow 0x9a8f398 is mapped but visible child GtkScrollbar 0x9a91940 is not mapped
+
+(gedit:7596): Gtk-WARNING **: GtkScrolledWindow 0x9a8f398 is mapped but visible child GtkScrollbar 0x9a917b8 is not mapped
+
+(gedit:7596): Gtk-WARNING **: GtkScrolledWindow 0x9a8f398 is mapped but visible child GtkScrollbar 0x9a91940 is not mapped
+javaldx: Could not find a Java Runtime Environment!
+Warning: failed to read path from javaldx
+
+** (unity-webapps-runner:7693): WARNING **: Could not get a proper accuracy from Geoclue (NONE)
+** Message: Launching webapp container for url 'http://www.amazon.com/?tag=u1webapp-20' and app_id 'ubuntu-amazon-default (command line 'webapp-container --app-id='ubuntu-amazon-default' --webapp --enable-back-forward   http://www.amazon.com/?tag=u1webapp-20')
+Could not open manifest file:  "/usr/share/unity-webapps/userscripts/unity-webapps-amazon/manifest.json" 
+Invalid webapps installation found:  "/usr/share/unity-webapps/userscripts/unity-webapps-amazon" 
+Using Oxide as the web engine backend 
+QQmlExpression: Expression file:///usr/share/webbrowser-app/webcontainer/WebApp.qml:114:25 depends on non-NOTIFYable properties:
+    unity::action::qml::ActionManager::globalContext
+Empty path in webapps model search path update request 
+OxideQQuickWebView: loadingChanged is deprecated. Please connect loadEvent if you want load event notifications, or loadingStateChanged if you want to detect changes to the loading property 
+OxideQQuickWebContext: userAgentOverrideDelegate is deprecated. Please use userAgentOverrides instead 
+Loaded 1 UA override(s) from file:///usr/lib/i386-linux-gnu/qt5/qml/Ubuntu/Components/Extras/Browser/ua-overrides-desktop.js
+[0222/175203:ERROR:layer_tree_host_impl.cc(2206)] Forcing zero-copy tile initialization as worker context is missing
+Injecting webapps script[0] : file:///usr/lib/i386-linux-gnu/qt5/qml/Ubuntu/UnityWebApps/unity-webapps-api.js
+OxideQQuickWebView: loadingChanged is deprecated. Please connect loadEvent if you want load event notifications, or loadingStateChanged if you want to detect changes to the loading property 
+OxideQQuickWebContext: userAgentOverrideDelegate is deprecated. Please use userAgentOverrides instead 
+Loaded 1 UA override(s) from file:///usr/lib/i386-linux-gnu/qt5/qml/Ubuntu/Components/Extras/Browser/ua-overrides-desktop.js
+[0222/180826:ERROR:layer_tree_host_impl.cc(2206)] Forcing zero-copy tile initialization as worker context is missing
+QXcbWindow: Unhandled client message: "_COMPIZ_TOOLKIT_ACTION" 
+
+(gedit:7921): Gtk-CRITICAL **: _gtk_widget_captured_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(gedit:8155): Gtk-WARNING **: GtkScrolledWindow 0x862c398 is mapped but visible child GtkScrollbar 0x862e7b8 is not mapped
+
+(gedit:8155): Gtk-WARNING **: GtkScrolledWindow 0x862c398 is mapped but visible child GtkScrollbar 0x862e940 is not mapped
+
+(gedit:8155): Gtk-WARNING **: GtkScrolledWindow 0x862c398 is mapped but visible child GtkScrollbar 0x862e7b8 is not mapped
+
+(gedit:8155): Gtk-WARNING **: GtkScrolledWindow 0x862c398 is mapped but visible child GtkScrollbar 0x862e940 is not mapped
+
+(process:8201): GLib-CRITICAL **: g_path_get_basename: assertion 'file_name != NULL' failed
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(gnome-terminal:8315): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
+
+(gedit:8492): Gtk-WARNING **: GtkScrolledWindow 0x8dd6398 is mapped but visible child GtkScrollbar 0x8dd87b8 is not mapped
+
+(gedit:8492): Gtk-WARNING **: GtkScrolledWindow 0x8dd6398 is mapped but visible child GtkScrollbar 0x8dd8940 is not mapped
+
+(gedit:8492): Gtk-WARNING **: GtkScrolledWindow 0x8dd6398 is mapped but visible child GtkScrollbar 0x8dd87b8 is not mapped
+
+(gedit:8492): Gtk-WARNING **: GtkScrolledWindow 0x8dd6398 is mapped but visible child GtkScrollbar 0x8dd8940 is not mapped
+
+(gedit:8524): Gtk-WARNING **: GtkScrolledWindow 0x9ebe398 is mapped but visible child GtkScrollbar 0x9ec07b8 is not mapped
+
+(gedit:8524): Gtk-WARNING **: GtkScrolledWindow 0x9ebe398 is mapped but visible child GtkScrollbar 0x9ec0940 is not mapped
+
+(gedit:8524): Gtk-WARNING **: GtkScrolledWindow 0x9ebe398 is mapped but visible child GtkScrollbar 0x9ec07b8 is not mapped
+
+(gedit:8524): Gtk-WARNING **: GtkScrolledWindow 0x9ebe398 is mapped but visible child GtkScrollbar 0x9ec0940 is not mapped
+
+(gnome-terminal:8628): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
